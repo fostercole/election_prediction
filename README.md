@@ -1,3 +1,6 @@
+Goal: 
+
+Because elections are coming up, I thought it would be cool to see how well (or how poorly) different types of models predict the outcome of elections. One struggle was the limited amount of data (there have only been 11 elections between 1976 and today), so I decided to predict which party would win each state instead, which would give me around 50 times as many data points. To infer who which party would win an election, I'd run data from all 50 states through a prediction model, calculate the percentage chance that party X would win the election in each state, and then run a Monte Carlo simulation to determine the probability that party X would win >270 electoral votes given these output probabilities. 
 
 Dataset Design Choices: 
 
