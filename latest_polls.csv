@@ -1,0 +1,1436 @@
+cycle,state,modeldate,candidate_name,pct_estimate
+1968,National,,George Wallace,15.002
+1968,National,,"Hubert Humphrey, Jr.",39.06675
+1968,National,,Richard M. Nixon,47.72081
+1972,California,,George S. McGovern,35.41592
+1972,California,,Richard M. Nixon,47.3146
+1972,Colorado,,George S. McGovern,27.3064
+1972,Colorado,,Richard M. Nixon,63.63466
+1972,Connecticut,,George S. McGovern,28.22355
+1972,Connecticut,,Richard M. Nixon,57.27177
+1972,Illinois,,George S. McGovern,30.20215
+1972,Illinois,,Richard M. Nixon,60.16923
+1972,Kansas,,George S. McGovern,22.46692
+1972,Kansas,,Richard M. Nixon,66.69883
+1972,Kentucky,,George S. McGovern,32.3255
+1972,Kentucky,,Richard M. Nixon,48.66443
+1972,Massachusetts,,George S. McGovern,47.03973
+1972,Massachusetts,,Richard M. Nixon,43.81844
+1972,Michigan,,George S. McGovern,40.82501
+1972,Michigan,,Richard M. Nixon,54.96976
+1972,Minnesota,,George S. McGovern,33.96141
+1972,Minnesota,,Richard M. Nixon,59.70787
+1972,Missouri,,George S. McGovern,15.55203
+1972,Missouri,,Richard M. Nixon,58.52635
+1972,National,,George S. McGovern,33.71223
+1972,National,,Richard M. Nixon,57.92342
+1972,New Jersey,,George S. McGovern,30.28568
+1972,New Jersey,,Richard M. Nixon,53.11531
+1972,New York,,George S. McGovern,35.87733
+1972,New York,,Richard M. Nixon,58.8518
+1972,North Carolina,,George S. McGovern,24.29243
+1972,North Carolina,,Richard M. Nixon,65.62482
+1972,Ohio,,George S. McGovern,33.45072
+1972,Ohio,,Richard M. Nixon,56.30234
+1972,Oklahoma,,George S. McGovern,21.98039
+1972,Oklahoma,,Richard M. Nixon,74.76071
+1972,Oregon,,George S. McGovern,37.14799
+1972,Oregon,,Richard M. Nixon,48.90327
+1972,Pennsylvania,,George S. McGovern,38.61049
+1972,Pennsylvania,,Richard M. Nixon,58.18247
+1976,California,1976-11-02,Gerald R. Ford,46.068216
+1976,California,1976-11-02,Jimmy Carter,42.797994
+1976,Colorado,1976-11-02,Gerald R. Ford,43.553292
+1976,Colorado,1976-11-02,Jimmy Carter,42.180101
+1976,Connecticut,1976-11-02,Gerald R. Ford,43.167668
+1976,Connecticut,1976-11-02,Jimmy Carter,41.698014
+1976,Delaware,1976-11-02,Gerald R. Ford,30.925426
+1976,Delaware,1976-11-02,Jimmy Carter,33.370748
+1976,Georgia,1976-11-02,Gerald R. Ford,30.416786
+1976,Georgia,1976-11-02,Jimmy Carter,59.796546
+1976,Idaho,1976-11-02,Gerald R. Ford,47.231461
+1976,Idaho,1976-11-02,Jimmy Carter,28.532182
+1976,Illinois,1976-11-02,Gerald R. Ford,48.138897
+1976,Illinois,1976-11-02,Jimmy Carter,46.568122
+1976,Indiana,1976-11-02,Gerald R. Ford,43.203328
+1976,Indiana,1976-11-02,Jimmy Carter,44.115426
+1976,Iowa,1976-11-02,Gerald R. Ford,46.021599
+1976,Iowa,1976-11-02,Jimmy Carter,44.396444
+1976,Kansas,1976-11-02,Gerald R. Ford,46.104269
+1976,Kansas,1976-11-02,Jimmy Carter,41.301737
+1976,Maine,1976-11-02,Gerald R. Ford,41.706581
+1976,Maine,1976-11-02,Jimmy Carter,39.287709
+1976,Maryland,1976-11-02,Gerald R. Ford,30.016708
+1976,Maryland,1976-11-02,Jimmy Carter,37.99659
+1976,Massachusetts,1976-11-02,Gerald R. Ford,35.971312
+1976,Massachusetts,1976-11-02,Jimmy Carter,50.399871
+1976,Michigan,1976-11-02,Gerald R. Ford,45.081918
+1976,Michigan,1976-11-02,Jimmy Carter,41.721918
+1976,Minnesota,1976-11-02,Gerald R. Ford,36.285449
+1976,Minnesota,1976-11-02,Jimmy Carter,50.399871
+1976,Missouri,1976-11-02,Gerald R. Ford,43.846193
+1976,Missouri,1976-11-02,Jimmy Carter,46.088928
+1976,National,1976-11-02,Gerald R. Ford,45.014414
+1976,National,1976-11-02,Jimmy Carter,45.599425
+1976,Nebraska,1976-11-02,Gerald R. Ford,53.02522
+1976,Nebraska,1976-11-02,Jimmy Carter,33.370748
+1976,New Jersey,1976-11-02,Gerald R. Ford,44.645726
+1976,New Jersey,1976-11-02,Jimmy Carter,37.091361
+1976,New York,1976-11-02,Gerald R. Ford,44.351337
+1976,New York,1976-11-02,Jimmy Carter,49.313474
+1976,North Carolina,1976-11-02,Gerald R. Ford,40.518208
+1976,North Carolina,1976-11-02,Jimmy Carter,41.196529
+1976,Ohio,1976-11-02,Gerald R. Ford,42.007948
+1976,Ohio,1976-11-02,Jimmy Carter,53.398833
+1976,Oregon,1976-11-02,Gerald R. Ford,40.518523
+1976,Oregon,1976-11-02,Jimmy Carter,43.190446
+1976,South Carolina,1976-11-02,Gerald R. Ford,38.029167
+1976,South Carolina,1976-11-02,Jimmy Carter,48.704338
+1976,South Dakota,1976-11-02,Gerald R. Ford,41.934678
+1976,South Dakota,1976-11-02,Jimmy Carter,43.200283
+1976,Utah,1976-11-02,Gerald R. Ford,55.407616
+1976,Utah,1976-11-02,Jimmy Carter,34.506819
+1976,Washington,1976-11-02,Gerald R. Ford,31.733736
+1976,Washington,1976-11-02,Jimmy Carter,33.270395
+1980,Alabama,1980-11-04,Jimmy Carter,40.321613
+1980,Alabama,1980-11-04,John B. Anderson,3.2009363
+1980,Alabama,1980-11-04,Ronald Reagan,44.868922
+1980,Arizona,1980-11-04,Jimmy Carter,21.787392
+1980,Arizona,1980-11-04,Ronald Reagan,45.174599
+1980,Arkansas,1980-11-04,Jimmy Carter,43.983228
+1980,Arkansas,1980-11-04,John B. Anderson,5.7586027
+1980,Arkansas,1980-11-04,Ronald Reagan,40.324904
+1980,California,1980-11-04,Jimmy Carter,28.010388
+1980,California,1980-11-04,John B. Anderson,17.682481
+1980,California,1980-11-04,Ronald Reagan,42.075506
+1980,Colorado,1980-11-04,Jimmy Carter,24.913525
+1980,Colorado,1980-11-04,John B. Anderson,12.005552
+1980,Colorado,1980-11-04,Ronald Reagan,49.955457
+1980,Connecticut,1980-11-04,Jimmy Carter,32.831153
+1980,Connecticut,1980-11-04,John B. Anderson,18.712681
+1980,Connecticut,1980-11-04,Ronald Reagan,36.367083
+1980,Delaware,1980-11-04,Jimmy Carter,36.74326
+1980,Delaware,1980-11-04,Ronald Reagan,43.166828
+1980,Florida,1980-11-04,Jimmy Carter,36.81831
+1980,Florida,1980-11-04,John B. Anderson,7.2293945
+1980,Florida,1980-11-04,Ronald Reagan,44.497703
+1980,Georgia,1980-11-04,Jimmy Carter,48.568402
+1980,Georgia,1980-11-04,John B. Anderson,5.1442628
+1980,Georgia,1980-11-04,Ronald Reagan,36.322247
+1980,Hawaii,1980-11-04,Jimmy Carter,36.287027
+1980,Hawaii,1980-11-04,John B. Anderson,12.119444
+1980,Hawaii,1980-11-04,Ronald Reagan,31.026256
+1980,Idaho,1980-11-04,Jimmy Carter,23.957977
+1980,Idaho,1980-11-04,John B. Anderson,6.0308398
+1980,Idaho,1980-11-04,Ronald Reagan,50.961666
+1980,Illinois,1980-11-04,Jimmy Carter,40.353598
+1980,Illinois,1980-11-04,John B. Anderson,10.428092
+1980,Illinois,1980-11-04,Ronald Reagan,43.768107
+1980,Iowa,1980-11-04,Jimmy Carter,33.458937
+1980,Iowa,1980-11-04,John B. Anderson,13.818613
+1980,Iowa,1980-11-04,Ronald Reagan,44.35356
+1980,Kansas,1980-11-04,Jimmy Carter,26.411143
+1980,Kansas,1980-11-04,John B. Anderson,8.1438399
+1980,Kansas,1980-11-04,Ronald Reagan,48.832027
+1980,Louisiana,1980-11-04,Jimmy Carter,36.86978
+1980,Louisiana,1980-11-04,John B. Anderson,4.1411469
+1980,Louisiana,1980-11-04,Ronald Reagan,49.013447
+1980,Maine,1980-11-04,Jimmy Carter,35.645349
+1980,Maine,1980-11-04,John B. Anderson,12.862642
+1980,Maine,1980-11-04,Ronald Reagan,29.75094
+1980,Maryland,1980-11-04,Jimmy Carter,41.137857
+1980,Maryland,1980-11-04,John B. Anderson,9.1664807
+1980,Maryland,1980-11-04,Ronald Reagan,30.980469
+1980,Massachusetts,1980-11-04,Jimmy Carter,31.14032
+1980,Massachusetts,1980-11-04,John B. Anderson,19.526497
+1980,Massachusetts,1980-11-04,Ronald Reagan,30.613445
+1980,Michigan,1980-11-04,Jimmy Carter,28.741635
+1980,Michigan,1980-11-04,John B. Anderson,11.752165
+1980,Michigan,1980-11-04,Ronald Reagan,38.180708
+1980,Minnesota,1980-11-04,Jimmy Carter,31.597255
+1980,Minnesota,1980-11-04,John B. Anderson,18.972968
+1980,Minnesota,1980-11-04,Ronald Reagan,31.707947
+1980,Mississippi,1980-11-04,Jimmy Carter,35.870002
+1980,Mississippi,1980-11-04,John B. Anderson,3.0375648
+1980,Mississippi,1980-11-04,Ronald Reagan,51.113478
+1980,Missouri,1980-11-04,Jimmy Carter,37.222867
+1980,Missouri,1980-11-04,John B. Anderson,11.317634
+1980,Missouri,1980-11-04,Ronald Reagan,40.180024
+1980,National,1980-11-04,Jimmy Carter,41.83639
+1980,National,1980-11-04,John B. Anderson,7.6771216
+1980,National,1980-11-04,Ronald Reagan,44.089588
+1980,Nebraska,1980-11-04,Jimmy Carter,22.783342
+1980,Nebraska,1980-11-04,Ronald Reagan,55.177087
+1980,Nevada,1980-11-04,Jimmy Carter,22.783342
+1980,Nevada,1980-11-04,John B. Anderson,11.676912
+1980,Nevada,1980-11-04,Ronald Reagan,43.166828
+1980,New Hampshire,1980-11-04,Jimmy Carter,28.762486
+1980,New Hampshire,1980-11-04,Ronald Reagan,43.166828
+1980,New Jersey,1980-11-04,Jimmy Carter,33.844507
+1980,New Jersey,1980-11-04,John B. Anderson,10.32598
+1980,New Jersey,1980-11-04,Ronald Reagan,38.923002
+1980,New York,1980-11-04,Jimmy Carter,35.753233
+1980,New York,1980-11-04,John B. Anderson,12.559089
+1980,New York,1980-11-04,Ronald Reagan,31.696163
+1980,North Carolina,1980-11-04,Jimmy Carter,46.157558
+1980,North Carolina,1980-11-04,John B. Anderson,3.7107758
+1980,North Carolina,1980-11-04,Ronald Reagan,39.144633
+1980,North Dakota,1980-11-04,Jimmy Carter,23.779461
+1980,North Dakota,1980-11-04,John B. Anderson,12.664977
+1980,North Dakota,1980-11-04,Ronald Reagan,49.182837
+1980,Ohio,1980-11-04,Jimmy Carter,34.906983
+1980,Ohio,1980-11-04,John B. Anderson,10.569149
+1980,Ohio,1980-11-04,Ronald Reagan,42.38897
+1980,Oklahoma,1980-11-04,Jimmy Carter,38.739904
+1980,Oklahoma,1980-11-04,John B. Anderson,8.715469
+1980,Oklahoma,1980-11-04,Ronald Reagan,53.181412
+1980,Oregon,1980-11-04,Jimmy Carter,35.199058
+1980,Oregon,1980-11-04,John B. Anderson,14.369421
+1980,Oregon,1980-11-04,Ronald Reagan,41.788269
+1980,Pennsylvania,1980-11-04,Jimmy Carter,33.33068
+1980,Pennsylvania,1980-11-04,John B. Anderson,12.198041
+1980,Pennsylvania,1980-11-04,Ronald Reagan,38.62204
+1980,Rhode Island,1980-11-04,Jimmy Carter,35.264207
+1980,Rhode Island,1980-11-04,John B. Anderson,21.825193
+1980,Rhode Island,1980-11-04,Ronald Reagan,24.685584
+1980,South Carolina,1980-11-04,Jimmy Carter,43.700094
+1980,South Carolina,1980-11-04,John B. Anderson,1.0305841
+1980,South Carolina,1980-11-04,Ronald Reagan,40.619149
+1980,South Dakota,1980-11-04,Jimmy Carter,17.450183
+1980,South Dakota,1980-11-04,John B. Anderson,6.1687682
+1980,South Dakota,1980-11-04,Ronald Reagan,35.044928
+1980,Tennessee,1980-11-04,Jimmy Carter,51.268399
+1980,Tennessee,1980-11-04,John B. Anderson,1.0305841
+1980,Tennessee,1980-11-04,Ronald Reagan,41.91645
+1980,Texas,1980-11-04,Jimmy Carter,38.029731
+1980,Texas,1980-11-04,John B. Anderson,7.2277221
+1980,Texas,1980-11-04,Ronald Reagan,41.805354
+1980,Virginia,1980-11-04,Jimmy Carter,29.742939
+1980,Virginia,1980-11-04,John B. Anderson,6.3687901
+1980,Virginia,1980-11-04,Ronald Reagan,42.344475
+1980,Washington,1980-11-04,Jimmy Carter,32.373094
+1980,Washington,1980-11-04,John B. Anderson,12.944031
+1980,Washington,1980-11-04,Ronald Reagan,40.568063
+1980,West Virginia,1980-11-04,Jimmy Carter,40.200027
+1980,West Virginia,1980-11-04,John B. Anderson,5.684604
+1980,West Virginia,1980-11-04,Ronald Reagan,28.887504
+1980,Wisconsin,1980-11-04,Jimmy Carter,31.524793
+1980,Wisconsin,1980-11-04,John B. Anderson,19.679602
+1980,Wisconsin,1980-11-04,Ronald Reagan,34.444667
+1984,Alabama,1984-11-06,Ronald Reagan,57.058659
+1984,Alabama,1984-11-06,Walter F. Mondale,35.034674
+1984,California,1984-11-06,Ronald Reagan,55.258525
+1984,California,1984-11-06,Walter F. Mondale,38.947686
+1984,Colorado,1984-11-06,Ronald Reagan,54.0
+1984,Colorado,1984-11-06,Walter F. Mondale,31.0
+1984,Connecticut,1984-11-06,Ronald Reagan,57.287666
+1984,Connecticut,1984-11-06,Walter F. Mondale,30.695356
+1984,Florida,1984-11-06,Ronald Reagan,61.855152
+1984,Florida,1984-11-06,Walter F. Mondale,31.783757
+1984,Illinois,1984-11-06,Ronald Reagan,52.219493
+1984,Illinois,1984-11-06,Walter F. Mondale,39.675961
+1984,Indiana,1984-11-06,Ronald Reagan,51.718104
+1984,Indiana,1984-11-06,Walter F. Mondale,36.119087
+1984,Iowa,1984-11-06,Ronald Reagan,51.880488
+1984,Iowa,1984-11-06,Walter F. Mondale,39.460832
+1984,Kansas,1984-11-06,Ronald Reagan,55.230548
+1984,Kansas,1984-11-06,Walter F. Mondale,28.888068
+1984,Kentucky,1984-11-06,Ronald Reagan,58.363156
+1984,Kentucky,1984-11-06,Walter F. Mondale,33.065294
+1984,Maryland,1984-11-06,Ronald Reagan,49.0
+1984,Maryland,1984-11-06,Walter F. Mondale,36.0
+1984,Massachusetts,1984-11-06,Ronald Reagan,48.877508
+1984,Massachusetts,1984-11-06,Walter F. Mondale,44.119005
+1984,Minnesota,1984-11-06,Ronald Reagan,44.691374
+1984,Minnesota,1984-11-06,Walter F. Mondale,46.088834
+1984,Missouri,1984-11-06,Ronald Reagan,54.514807
+1984,Missouri,1984-11-06,Walter F. Mondale,37.749237
+1984,National,1984-11-06,Ronald Reagan,56.92206
+1984,National,1984-11-06,Walter F. Mondale,38.947609
+1984,Nebraska,1984-11-06,Ronald Reagan,58.280248
+1984,Nebraska,1984-11-06,Walter F. Mondale,26.931731
+1984,New Hampshire,1984-11-06,Ronald Reagan,50.576813
+1984,New Hampshire,1984-11-06,Walter F. Mondale,42.543725
+1984,New Jersey,1984-11-06,Ronald Reagan,56.537236
+1984,New Jersey,1984-11-06,Walter F. Mondale,32.496976
+1984,New Mexico,1984-11-06,Ronald Reagan,59.213861
+1984,New Mexico,1984-11-06,Walter F. Mondale,36.962649
+1984,New York,1984-11-06,Ronald Reagan,49.923902
+1984,New York,1984-11-06,Walter F. Mondale,38.551885
+1984,North Carolina,1984-11-06,Ronald Reagan,62.250338
+1984,North Carolina,1984-11-06,Walter F. Mondale,33.807644
+1984,Ohio,1984-11-06,Ronald Reagan,58.117125
+1984,Ohio,1984-11-06,Walter F. Mondale,39.468842
+1984,Oregon,1984-11-06,Ronald Reagan,49.161356
+1984,Oregon,1984-11-06,Walter F. Mondale,38.4373
+1984,Pennsylvania,1984-11-06,Ronald Reagan,55.145954
+1984,Pennsylvania,1984-11-06,Walter F. Mondale,40.310944
+1984,Rhode Island,1984-11-06,Ronald Reagan,48.491938
+1984,Rhode Island,1984-11-06,Walter F. Mondale,38.622482
+1984,Texas,1984-11-06,Ronald Reagan,59.732967
+1984,Texas,1984-11-06,Walter F. Mondale,33.363964
+1984,Utah,1984-11-06,Ronald Reagan,70.58637
+1984,Utah,1984-11-06,Walter F. Mondale,23.614176
+1984,Virginia,1984-11-06,Ronald Reagan,59.0
+1984,Virginia,1984-11-06,Walter F. Mondale,31.0
+1984,Washington,1984-11-06,Ronald Reagan,48.308329
+1984,Washington,1984-11-06,Walter F. Mondale,34.142811
+1984,West Virginia,1984-11-06,Ronald Reagan,54.504172
+1984,West Virginia,1984-11-06,Walter F. Mondale,44.393791
+1984,Wisconsin,1984-11-06,Ronald Reagan,52.425154
+1984,Wisconsin,1984-11-06,Walter F. Mondale,35.545034
+1988,Alabama,1988-11-08,George Bush,55.479872
+1988,Alabama,1988-11-08,Michael S. Dukakis,36.941321
+1988,Alaska,1988-11-08,George Bush,51.51186
+1988,Alaska,1988-11-08,Michael S. Dukakis,41.120967
+1988,Arizona,1988-11-08,George Bush,53.228553
+1988,Arizona,1988-11-08,Michael S. Dukakis,33.011637
+1988,Arkansas,1988-11-08,George Bush,47.937855
+1988,Arkansas,1988-11-08,Michael S. Dukakis,40.347879
+1988,California,1988-11-08,George Bush,50.917622
+1988,California,1988-11-08,Michael S. Dukakis,42.883798
+1988,Colorado,1988-11-08,George Bush,45.44891
+1988,Colorado,1988-11-08,Michael S. Dukakis,41.952605
+1988,Connecticut,1988-11-08,George Bush,41.128338
+1988,Connecticut,1988-11-08,Michael S. Dukakis,40.7113
+1988,Delaware,1988-11-08,George Bush,49.022541
+1988,Delaware,1988-11-08,Michael S. Dukakis,34.832296
+1988,Florida,1988-11-08,George Bush,57.550702
+1988,Florida,1988-11-08,Michael S. Dukakis,35.808301
+1988,Georgia,1988-11-08,George Bush,50.869978
+1988,Georgia,1988-11-08,Michael S. Dukakis,38.949382
+1988,Hawaii,1988-11-08,George Bush,34.023868
+1988,Hawaii,1988-11-08,Michael S. Dukakis,41.675536
+1988,Illinois,1988-11-08,George Bush,46.642244
+1988,Illinois,1988-11-08,Michael S. Dukakis,45.433824
+1988,Indiana,1988-11-08,George Bush,51.175531
+1988,Indiana,1988-11-08,Michael S. Dukakis,37.372362
+1988,Iowa,1988-11-08,George Bush,37.769242
+1988,Iowa,1988-11-08,Michael S. Dukakis,51.348629
+1988,Kansas,1988-11-08,George Bush,42.609085
+1988,Kansas,1988-11-08,Michael S. Dukakis,34.883109
+1988,Kentucky,1988-11-08,George Bush,47.317148
+1988,Kentucky,1988-11-08,Michael S. Dukakis,41.791197
+1988,Louisiana,1988-11-08,George Bush,48.347103
+1988,Louisiana,1988-11-08,Michael S. Dukakis,39.623911
+1988,Maine,1988-11-08,George Bush,45.982796
+1988,Maine,1988-11-08,Michael S. Dukakis,42.126039
+1988,Maryland,1988-11-08,George Bush,46.587844
+1988,Maryland,1988-11-08,Michael S. Dukakis,45.944472
+1988,Massachusetts,1988-11-08,George Bush,41.684623
+1988,Massachusetts,1988-11-08,Michael S. Dukakis,48.431455
+1988,Michigan,1988-11-08,George Bush,45.863448
+1988,Michigan,1988-11-08,Michael S. Dukakis,43.626056
+1988,Minnesota,1988-11-08,George Bush,42.254635
+1988,Minnesota,1988-11-08,Michael S. Dukakis,49.89779
+1988,Mississippi,1988-11-08,George Bush,56.127013
+1988,Mississippi,1988-11-08,Michael S. Dukakis,37.076414
+1988,Missouri,1988-11-08,George Bush,47.448792
+1988,Missouri,1988-11-08,Michael S. Dukakis,41.91396
+1988,Montana,1988-11-08,George Bush,45.995016
+1988,Montana,1988-11-08,Michael S. Dukakis,36.983819
+1988,National,1988-11-08,George Bush,52.292803
+1988,National,1988-11-08,Michael S. Dukakis,41.668574
+1988,Nebraska,1988-11-08,George Bush,45.570028
+1988,Nebraska,1988-11-08,Michael S. Dukakis,39.5896
+1988,Nevada,1988-11-08,George Bush,51.150093
+1988,Nevada,1988-11-08,Michael S. Dukakis,33.449524
+1988,New Hampshire,1988-11-08,George Bush,60.391007
+1988,New Hampshire,1988-11-08,Michael S. Dukakis,32.119257
+1988,New Jersey,1988-11-08,George Bush,51.303961
+1988,New Jersey,1988-11-08,Michael S. Dukakis,40.924593
+1988,New Mexico,1988-11-08,George Bush,49.184517
+1988,New Mexico,1988-11-08,Michael S. Dukakis,39.668694
+1988,New York,1988-11-08,George Bush,45.686668
+1988,New York,1988-11-08,Michael S. Dukakis,45.885133
+1988,North Carolina,1988-11-08,George Bush,50.290195
+1988,North Carolina,1988-11-08,Michael S. Dukakis,41.989746
+1988,North Dakota,1988-11-08,George Bush,51.515341
+1988,North Dakota,1988-11-08,Michael S. Dukakis,37.267997
+1988,Ohio,1988-11-08,George Bush,49.438407
+1988,Ohio,1988-11-08,Michael S. Dukakis,41.268361
+1988,Oklahoma,1988-11-08,George Bush,55.412845
+1988,Oklahoma,1988-11-08,Michael S. Dukakis,38.603252
+1988,Oregon,1988-11-08,George Bush,47.40057
+1988,Oregon,1988-11-08,Michael S. Dukakis,48.474516
+1988,Pennsylvania,1988-11-08,George Bush,48.369381
+1988,Pennsylvania,1988-11-08,Michael S. Dukakis,44.803587
+1988,Rhode Island,1988-11-08,George Bush,36.7557
+1988,Rhode Island,1988-11-08,Michael S. Dukakis,46.607574
+1988,South Carolina,1988-11-08,George Bush,54.00521
+1988,South Carolina,1988-11-08,Michael S. Dukakis,39.120127
+1988,South Dakota,1988-11-08,George Bush,45.16703
+1988,South Dakota,1988-11-08,Michael S. Dukakis,40.672295
+1988,Tennessee,1988-11-08,George Bush,50.956422
+1988,Tennessee,1988-11-08,Michael S. Dukakis,39.917801
+1988,Texas,1988-11-08,George Bush,52.101053
+1988,Texas,1988-11-08,Michael S. Dukakis,42.587829
+1988,Utah,1988-11-08,George Bush,64.836804
+1988,Utah,1988-11-08,Michael S. Dukakis,31.227522
+1988,Vermont,1988-11-08,George Bush,42.142013
+1988,Vermont,1988-11-08,Michael S. Dukakis,41.675536
+1988,Virginia,1988-11-08,George Bush,52.139964
+1988,Virginia,1988-11-08,Michael S. Dukakis,39.417478
+1988,Washington,1988-11-08,George Bush,47.266732
+1988,Washington,1988-11-08,Michael S. Dukakis,42.971394
+1988,West Virginia,1988-11-08,George Bush,35.042841
+1988,West Virginia,1988-11-08,Michael S. Dukakis,43.680941
+1988,Wisconsin,1988-11-08,George Bush,46.612954
+1988,Wisconsin,1988-11-08,Michael S. Dukakis,44.869765
+1988,Wyoming,1988-11-08,George Bush,56.444583
+1988,Wyoming,1988-11-08,Michael S. Dukakis,27.823913
+1992,Alabama,1992-11-03,Bill Clinton,40.180882
+1992,Alabama,1992-11-03,George Bush,41.636747
+1992,Alabama,1992-11-03,H. Ross Perot,11.078683
+1992,Alaska,1992-11-03,Bill Clinton,33.656677
+1992,Alaska,1992-11-03,George Bush,33.114877
+1992,Alaska,1992-11-03,H. Ross Perot,27.163184
+1992,Arizona,1992-11-03,Bill Clinton,33.570066
+1992,Arizona,1992-11-03,George Bush,33.726051
+1992,Arizona,1992-11-03,H. Ross Perot,19.173324
+1992,Arkansas,1992-11-03,Bill Clinton,52.054279
+1992,Arkansas,1992-11-03,George Bush,34.209791
+1992,Arkansas,1992-11-03,H. Ross Perot,12.094245
+1992,California,1992-11-03,Bill Clinton,48.764566
+1992,California,1992-11-03,George Bush,31.614049
+1992,California,1992-11-03,H. Ross Perot,14.479459
+1992,Colorado,1992-11-03,Bill Clinton,39.511654
+1992,Colorado,1992-11-03,George Bush,31.915056
+1992,Colorado,1992-11-03,H. Ross Perot,19.546951
+1992,Connecticut,1992-11-03,Bill Clinton,44.051756
+1992,Connecticut,1992-11-03,George Bush,33.683648
+1992,Connecticut,1992-11-03,H. Ross Perot,16.067219
+1992,Delaware,1992-11-03,Bill Clinton,40.233436
+1992,Delaware,1992-11-03,George Bush,32.77675
+1992,Delaware,1992-11-03,H. Ross Perot,14.284498
+1992,District of Columbia,1992-11-03,Bill Clinton,71.275369
+1992,District of Columbia,1992-11-03,George Bush,16.872681
+1992,District of Columbia,1992-11-03,H. Ross Perot,7.5857997
+1992,Florida,1992-11-03,Bill Clinton,38.39614
+1992,Florida,1992-11-03,George Bush,40.316147
+1992,Florida,1992-11-03,H. Ross Perot,17.668952
+1992,Georgia,1992-11-03,Bill Clinton,38.814284
+1992,Georgia,1992-11-03,George Bush,37.187317
+1992,Georgia,1992-11-03,H. Ross Perot,16.220288
+1992,Hawaii,1992-11-03,Bill Clinton,43.686664
+1992,Hawaii,1992-11-03,George Bush,26.362199
+1992,Hawaii,1992-11-03,H. Ross Perot,14.846757
+1992,Idaho,1992-11-03,Bill Clinton,28.721845
+1992,Idaho,1992-11-03,George Bush,37.08333
+1992,Idaho,1992-11-03,H. Ross Perot,21.877246
+1992,Illinois,1992-11-03,Bill Clinton,46.80532
+1992,Illinois,1992-11-03,George Bush,32.766952
+1992,Illinois,1992-11-03,H. Ross Perot,10.438511
+1992,Indiana,1992-11-03,Bill Clinton,36.793521
+1992,Indiana,1992-11-03,George Bush,41.597344
+1992,Indiana,1992-11-03,H. Ross Perot,10.942849
+1992,Iowa,1992-11-03,Bill Clinton,38.889839
+1992,Iowa,1992-11-03,George Bush,34.430556
+1992,Iowa,1992-11-03,H. Ross Perot,17.329651
+1992,Kansas,1992-11-03,Bill Clinton,36.712598
+1992,Kansas,1992-11-03,George Bush,37.137903
+1992,Kansas,1992-11-03,H. Ross Perot,14.129456
+1992,Kentucky,1992-11-03,Bill Clinton,43.25922
+1992,Kentucky,1992-11-03,George Bush,36.885087
+1992,Kentucky,1992-11-03,H. Ross Perot,13.469261
+1992,Louisiana,1992-11-03,Bill Clinton,38.129305
+1992,Louisiana,1992-11-03,George Bush,36.358499
+1992,Louisiana,1992-11-03,H. Ross Perot,12.911087
+1992,Maine,1992-11-03,Bill Clinton,34.291351
+1992,Maine,1992-11-03,George Bush,27.842713
+1992,Maine,1992-11-03,H. Ross Perot,26.291988
+1992,Maryland,1992-11-03,Bill Clinton,42.98602
+1992,Maryland,1992-11-03,George Bush,34.528684
+1992,Maryland,1992-11-03,H. Ross Perot,14.392911
+1992,Massachusetts,1992-11-03,Bill Clinton,37.029205
+1992,Massachusetts,1992-11-03,George Bush,25.335175
+1992,Massachusetts,1992-11-03,H. Ross Perot,24.884151
+1992,Michigan,1992-11-03,Bill Clinton,39.087293
+1992,Michigan,1992-11-03,George Bush,32.258449
+1992,Michigan,1992-11-03,H. Ross Perot,18.3994
+1992,Minnesota,1992-11-03,Bill Clinton,41.663969
+1992,Minnesota,1992-11-03,George Bush,36.151074
+1992,Minnesota,1992-11-03,H. Ross Perot,21.171325
+1992,Mississippi,1992-11-03,Bill Clinton,37.229225
+1992,Mississippi,1992-11-03,George Bush,41.672941
+1992,Mississippi,1992-11-03,H. Ross Perot,10.524385
+1992,Missouri,1992-11-03,Bill Clinton,42.510403
+1992,Missouri,1992-11-03,George Bush,30.249898
+1992,Missouri,1992-11-03,H. Ross Perot,14.856359
+1992,Montana,1992-11-03,Bill Clinton,33.717977
+1992,Montana,1992-11-03,George Bush,32.015153
+1992,Montana,1992-11-03,H. Ross Perot,24.23599
+1992,National,1992-11-03,Bill Clinton,42.673484
+1992,National,1992-11-03,George Bush,35.376987
+1992,National,1992-11-03,H. Ross Perot,17.232872
+1992,Nebraska,1992-11-03,Bill Clinton,30.607145
+1992,Nebraska,1992-11-03,George Bush,40.123201
+1992,Nebraska,1992-11-03,H. Ross Perot,18.136323
+1992,Nevada,1992-11-03,Bill Clinton,35.293839
+1992,Nevada,1992-11-03,George Bush,29.838694
+1992,Nevada,1992-11-03,H. Ross Perot,26.291988
+1992,New Hampshire,1992-11-03,Bill Clinton,38.195925
+1992,New Hampshire,1992-11-03,George Bush,34.411127
+1992,New Hampshire,1992-11-03,H. Ross Perot,16.228043
+1992,New Jersey,1992-11-03,Bill Clinton,39.305388
+1992,New Jersey,1992-11-03,George Bush,31.74694
+1992,New Jersey,1992-11-03,H. Ross Perot,13.670466
+1992,New Mexico,1992-11-03,Bill Clinton,41.953365
+1992,New Mexico,1992-11-03,George Bush,33.80471
+1992,New Mexico,1992-11-03,H. Ross Perot,10.131984
+1992,New York,1992-11-03,Bill Clinton,48.076968
+1992,New York,1992-11-03,George Bush,28.626728
+1992,New York,1992-11-03,H. Ross Perot,14.867123
+1992,North Carolina,1992-11-03,Bill Clinton,40.319437
+1992,North Carolina,1992-11-03,George Bush,37.467438
+1992,North Carolina,1992-11-03,H. Ross Perot,13.908775
+1992,North Dakota,1992-11-03,Bill Clinton,31.136323
+1992,North Dakota,1992-11-03,George Bush,38.807546
+1992,North Dakota,1992-11-03,H. Ross Perot,14.760087
+1992,Ohio,1992-11-03,Bill Clinton,40.257081
+1992,Ohio,1992-11-03,George Bush,38.297151
+1992,Ohio,1992-11-03,H. Ross Perot,17.220265
+1992,Oklahoma,1992-11-03,Bill Clinton,37.494133
+1992,Oklahoma,1992-11-03,George Bush,43.199839
+1992,Oklahoma,1992-11-03,H. Ross Perot,14.452328
+1992,Oregon,1992-11-03,Bill Clinton,39.925772
+1992,Oregon,1992-11-03,George Bush,29.674924
+1992,Oregon,1992-11-03,H. Ross Perot,21.537566
+1992,Pennsylvania,1992-11-03,Bill Clinton,41.349889
+1992,Pennsylvania,1992-11-03,George Bush,32.196047
+1992,Pennsylvania,1992-11-03,H. Ross Perot,12.642836
+1992,Rhode Island,1992-11-03,Bill Clinton,50.311493
+1992,Rhode Island,1992-11-03,George Bush,26.844879
+1992,Rhode Island,1992-11-03,H. Ross Perot,10.524385
+1992,South Carolina,1992-11-03,Bill Clinton,33.74447
+1992,South Carolina,1992-11-03,George Bush,42.461602
+1992,South Carolina,1992-11-03,H. Ross Perot,10.350467
+1992,South Dakota,1992-11-03,Bill Clinton,36.333398
+1992,South Dakota,1992-11-03,George Bush,34.882478
+1992,South Dakota,1992-11-03,H. Ross Perot,15.182662
+1992,Tennessee,1992-11-03,Bill Clinton,44.505269
+1992,Tennessee,1992-11-03,George Bush,36.549558
+1992,Tennessee,1992-11-03,H. Ross Perot,8.6633955
+1992,Texas,1992-11-03,Bill Clinton,36.858955
+1992,Texas,1992-11-03,George Bush,37.153573
+1992,Texas,1992-11-03,H. Ross Perot,17.618171
+1992,Utah,1992-11-03,Bill Clinton,24.661515
+1992,Utah,1992-11-03,George Bush,39.200461
+1992,Utah,1992-11-03,H. Ross Perot,28.898042
+1992,Vermont,1992-11-03,Bill Clinton,40.803584
+1992,Vermont,1992-11-03,George Bush,29.381366
+1992,Vermont,1992-11-03,H. Ross Perot,15.593108
+1992,Virginia,1992-11-03,Bill Clinton,35.497365
+1992,Virginia,1992-11-03,George Bush,42.932654
+1992,Virginia,1992-11-03,H. Ross Perot,10.195162
+1992,Washington,1992-11-03,Bill Clinton,44.466954
+1992,Washington,1992-11-03,George Bush,29.462127
+1992,Washington,1992-11-03,H. Ross Perot,16.621448
+1992,West Virginia,1992-11-03,Bill Clinton,44.298712
+1992,West Virginia,1992-11-03,George Bush,29.859482
+1992,West Virginia,1992-11-03,H. Ross Perot,14.243109
+1992,Wisconsin,1992-11-03,Bill Clinton,39.933187
+1992,Wisconsin,1992-11-03,George Bush,33.528452
+1992,Wisconsin,1992-11-03,H. Ross Perot,15.250953
+1992,Wyoming,1992-11-03,Bill Clinton,30.408792
+1992,Wyoming,1992-11-03,George Bush,34.363353
+1992,Wyoming,1992-11-03,H. Ross Perot,22.336973
+1996,Alabama,1996-11-05,Bill Clinton,40.952817
+1996,Alabama,1996-11-05,Bob Dole,46.892719
+1996,Alabama,1996-11-05,H. Ross Perot,6.0515035
+1996,Alaska,1996-11-05,Bill Clinton,34.288314
+1996,Alaska,1996-11-05,Bob Dole,43.760162
+1996,Alaska,1996-11-05,H. Ross Perot,10.794619
+1996,Arizona,1996-11-05,Bill Clinton,45.013949
+1996,Arizona,1996-11-05,Bob Dole,38.127452
+1996,Arizona,1996-11-05,H. Ross Perot,7.5955097
+1996,Arkansas,1996-11-05,Bill Clinton,52.939159
+1996,Arkansas,1996-11-05,Bob Dole,34.854596
+1996,Arkansas,1996-11-05,H. Ross Perot,5.125655
+1996,California,1996-11-05,Bill Clinton,48.713991
+1996,California,1996-11-05,Bob Dole,34.899393
+1996,California,1996-11-05,H. Ross Perot,7.5711205
+1996,Colorado,1996-11-05,Bill Clinton,43.749865
+1996,Colorado,1996-11-05,Bob Dole,40.309325
+1996,Colorado,1996-11-05,H. Ross Perot,8.0977422
+1996,Connecticut,1996-11-05,Bill Clinton,49.016396
+1996,Connecticut,1996-11-05,Bob Dole,29.085105
+1996,Connecticut,1996-11-05,H. Ross Perot,8.6468725
+1996,Delaware,1996-11-05,Bill Clinton,46.301404
+1996,Delaware,1996-11-05,Bob Dole,36.616601
+1996,Delaware,1996-11-05,H. Ross Perot,5.0582778
+1996,District of Columbia,1996-11-05,Bill Clinton,81.327814
+1996,District of Columbia,1996-11-05,Bob Dole,4.7541757
+1996,District of Columbia,1996-11-05,H. Ross Perot,2.0389057
+1996,Florida,1996-11-05,Bill Clinton,46.23713
+1996,Florida,1996-11-05,Bob Dole,41.37611
+1996,Florida,1996-11-05,H. Ross Perot,5.0802259
+1996,Georgia,1996-11-05,Bill Clinton,44.767056
+1996,Georgia,1996-11-05,Bob Dole,41.930165
+1996,Georgia,1996-11-05,H. Ross Perot,6.2196125
+1996,Hawaii,1996-11-05,Bill Clinton,53.388279
+1996,Hawaii,1996-11-05,Bob Dole,31.062128
+1996,Hawaii,1996-11-05,H. Ross Perot,4.6148879
+1996,Idaho,1996-11-05,Bill Clinton,30.727659
+1996,Idaho,1996-11-05,Bob Dole,48.392292
+1996,Idaho,1996-11-05,H. Ross Perot,10.945048
+1996,Illinois,1996-11-05,Bill Clinton,50.610869
+1996,Illinois,1996-11-05,Bob Dole,34.334141
+1996,Illinois,1996-11-05,H. Ross Perot,5.1675874
+1996,Indiana,1996-11-05,Bill Clinton,38.665799
+1996,Indiana,1996-11-05,Bob Dole,40.676349
+1996,Indiana,1996-11-05,H. Ross Perot,7.4352681
+1996,Iowa,1996-11-05,Bill Clinton,47.453958
+1996,Iowa,1996-11-05,Bob Dole,35.083164
+1996,Iowa,1996-11-05,H. Ross Perot,6.4006699
+1996,Kansas,1996-11-05,Bill Clinton,37.789317
+1996,Kansas,1996-11-05,Bob Dole,49.524387
+1996,Kansas,1996-11-05,H. Ross Perot,6.8786487
+1996,Kentucky,1996-11-05,Bill Clinton,45.657298
+1996,Kentucky,1996-11-05,Bob Dole,41.734423
+1996,Kentucky,1996-11-05,H. Ross Perot,6.3196955
+1996,Louisiana,1996-11-05,Bill Clinton,46.771096
+1996,Louisiana,1996-11-05,Bob Dole,35.770933
+1996,Louisiana,1996-11-05,H. Ross Perot,4.9627943
+1996,Maine,1996-11-05,Bill Clinton,47.893072
+1996,Maine,1996-11-05,Bob Dole,36.179531
+1996,Maine,1996-11-05,H. Ross Perot,7.4770995
+1996,Maryland,1996-11-05,Bill Clinton,51.392215
+1996,Maryland,1996-11-05,Bob Dole,36.927099
+1996,Maryland,1996-11-05,H. Ross Perot,4.4178682
+1996,Massachusetts,1996-11-05,Bill Clinton,57.458991
+1996,Massachusetts,1996-11-05,Bob Dole,27.18631
+1996,Massachusetts,1996-11-05,H. Ross Perot,5.4271976
+1996,Michigan,1996-11-05,Bill Clinton,47.323879
+1996,Michigan,1996-11-05,Bob Dole,34.651579
+1996,Michigan,1996-11-05,H. Ross Perot,7.6146088
+1996,Minnesota,1996-11-05,Bill Clinton,52.188213
+1996,Minnesota,1996-11-05,Bob Dole,31.648225
+1996,Minnesota,1996-11-05,H. Ross Perot,7.6179562
+1996,Mississippi,1996-11-05,Bill Clinton,39.189574
+1996,Mississippi,1996-11-05,Bob Dole,46.790798
+1996,Mississippi,1996-11-05,H. Ross Perot,4.7284629
+1996,Missouri,1996-11-05,Bill Clinton,47.004037
+1996,Missouri,1996-11-05,Bob Dole,37.184206
+1996,Missouri,1996-11-05,H. Ross Perot,7.2970679
+1996,Montana,1996-11-05,Bill Clinton,40.633789
+1996,Montana,1996-11-05,Bob Dole,40.319806
+1996,Montana,1996-11-05,H. Ross Perot,8.830598
+1996,National,1996-11-05,Bill Clinton,49.616052
+1996,National,1996-11-05,Bob Dole,36.763277
+1996,National,1996-11-05,H. Ross Perot,7.8915041
+1996,Nebraska,1996-11-05,Bill Clinton,36.553417
+1996,Nebraska,1996-11-05,Bob Dole,47.248021
+1996,Nebraska,1996-11-05,H. Ross Perot,7.5906219
+1996,Nevada,1996-11-05,Bill Clinton,42.691043
+1996,Nevada,1996-11-05,Bob Dole,42.539617
+1996,Nevada,1996-11-05,H. Ross Perot,6.5594179
+1996,New Hampshire,1996-11-05,Bill Clinton,50.101426
+1996,New Hampshire,1996-11-05,Bob Dole,35.135896
+1996,New Hampshire,1996-11-05,H. Ross Perot,6.1443736
+1996,New Jersey,1996-11-05,Bill Clinton,48.820304
+1996,New Jersey,1996-11-05,Bob Dole,31.61794
+1996,New Jersey,1996-11-05,H. Ross Perot,8.4346629
+1996,New Mexico,1996-11-05,Bill Clinton,47.593024
+1996,New Mexico,1996-11-05,Bob Dole,33.699388
+1996,New Mexico,1996-11-05,H. Ross Perot,6.0815401
+1996,New York,1996-11-05,Bill Clinton,54.758489
+1996,New York,1996-11-05,Bob Dole,28.864572
+1996,New York,1996-11-05,H. Ross Perot,6.2342756
+1996,North Carolina,1996-11-05,Bill Clinton,43.845678
+1996,North Carolina,1996-11-05,Bob Dole,45.747181
+1996,North Carolina,1996-11-05,H. Ross Perot,3.4337545
+1996,North Dakota,1996-11-05,Bill Clinton,36.061334
+1996,North Dakota,1996-11-05,Bob Dole,41.205485
+1996,North Dakota,1996-11-05,H. Ross Perot,8.7104084
+1996,Ohio,1996-11-05,Bill Clinton,47.250076
+1996,Ohio,1996-11-05,Bob Dole,41.174896
+1996,Ohio,1996-11-05,H. Ross Perot,8.2038134
+1996,Oklahoma,1996-11-05,Bill Clinton,39.532809
+1996,Oklahoma,1996-11-05,Bob Dole,46.478596
+1996,Oklahoma,1996-11-05,H. Ross Perot,6.9456522
+1996,Oregon,1996-11-05,Bill Clinton,48.096447
+1996,Oregon,1996-11-05,Bob Dole,35.442553
+1996,Oregon,1996-11-05,H. Ross Perot,7.162601
+1996,Pennsylvania,1996-11-05,Bill Clinton,49.045393
+1996,Pennsylvania,1996-11-05,Bob Dole,36.014836
+1996,Pennsylvania,1996-11-05,H. Ross Perot,6.4745766
+1996,Rhode Island,1996-11-05,Bill Clinton,54.644628
+1996,Rhode Island,1996-11-05,Bob Dole,24.749343
+1996,Rhode Island,1996-11-05,H. Ross Perot,8.6099131
+1996,South Carolina,1996-11-05,Bill Clinton,40.93399
+1996,South Carolina,1996-11-05,Bob Dole,49.274688
+1996,South Carolina,1996-11-05,H. Ross Perot,2.8231044
+1996,South Dakota,1996-11-05,Bill Clinton,41.031583
+1996,South Dakota,1996-11-05,Bob Dole,45.196836
+1996,South Dakota,1996-11-05,H. Ross Perot,6.380023
+1996,Tennessee,1996-11-05,Bill Clinton,44.996317
+1996,Tennessee,1996-11-05,Bob Dole,42.038365
+1996,Tennessee,1996-11-05,H. Ross Perot,4.8822378
+1996,Texas,1996-11-05,Bill Clinton,40.749962
+1996,Texas,1996-11-05,Bob Dole,46.217357
+1996,Texas,1996-11-05,H. Ross Perot,5.6204633
+1996,Utah,1996-11-05,Bill Clinton,33.763817
+1996,Utah,1996-11-05,Bob Dole,47.14627
+1996,Utah,1996-11-05,H. Ross Perot,8.1496896
+1996,Vermont,1996-11-05,Bill Clinton,52.366977
+1996,Vermont,1996-11-05,Bob Dole,35.519814
+1996,Vermont,1996-11-05,H. Ross Perot,4.1957674
+1996,Virginia,1996-11-05,Bill Clinton,42.826149
+1996,Virginia,1996-11-05,Bob Dole,41.753454
+1996,Virginia,1996-11-05,H. Ross Perot,4.7999955
+1996,Washington,1996-11-05,Bill Clinton,47.449865
+1996,Washington,1996-11-05,Bob Dole,35.024938
+1996,Washington,1996-11-05,H. Ross Perot,5.7482647
+1996,West Virginia,1996-11-05,Bill Clinton,50.536458
+1996,West Virginia,1996-11-05,Bob Dole,34.296113
+1996,West Virginia,1996-11-05,H. Ross Perot,7.3461923
+1996,Wisconsin,1996-11-05,Bill Clinton,49.536554
+1996,Wisconsin,1996-11-05,Bob Dole,34.940681
+1996,Wisconsin,1996-11-05,H. Ross Perot,7.5134597
+1996,Wyoming,1996-11-05,Bill Clinton,37.603149
+1996,Wyoming,1996-11-05,Bob Dole,44.841788
+1996,Wyoming,1996-11-05,H. Ross Perot,7.7816225
+2000,Alabama,2000-11-07,Al Gore,35.201229
+2000,Alabama,2000-11-07,George W. Bush,52.765827
+2000,Alabama,2000-11-07,Ralph Nader,0.97076015
+2000,Alaska,2000-11-07,Al Gore,28.018256
+2000,Alaska,2000-11-07,George W. Bush,50.99731
+2000,Alaska,2000-11-07,Ralph Nader,12.890239
+2000,Arizona,2000-11-07,Al Gore,38.92711
+2000,Arizona,2000-11-07,George W. Bush,51.462122
+2000,Arizona,2000-11-07,Ralph Nader,3.8666559
+2000,Arkansas,2000-11-07,Al Gore,44.305234
+2000,Arkansas,2000-11-07,George W. Bush,46.528879
+2000,Arkansas,2000-11-07,Ralph Nader,2.5513744
+2000,California,2000-11-07,Al Gore,46.403632
+2000,California,2000-11-07,George W. Bush,42.743904
+2000,California,2000-11-07,Ralph Nader,5.4042012
+2000,Colorado,2000-11-07,Al Gore,39.381768
+2000,Colorado,2000-11-07,George W. Bush,47.976955
+2000,Colorado,2000-11-07,Ralph Nader,4.9140965
+2000,Connecticut,2000-11-07,Al Gore,49.740238
+2000,Connecticut,2000-11-07,George W. Bush,37.512749
+2000,Connecticut,2000-11-07,Ralph Nader,6.5705916
+2000,Delaware,2000-11-07,Al Gore,45.229964
+2000,Delaware,2000-11-07,George W. Bush,44.227273
+2000,Delaware,2000-11-07,Ralph Nader,3.5519228
+2000,District of Columbia,2000-11-07,Al Gore,72.672953
+2000,District of Columbia,2000-11-07,George W. Bush,14.141113
+2000,District of Columbia,2000-11-07,Ralph Nader,4.980098
+2000,Florida,2000-11-07,Al Gore,47.174946
+2000,Florida,2000-11-07,George W. Bush,45.757136
+2000,Florida,2000-11-07,Ralph Nader,2.9047808
+2000,Georgia,2000-11-07,Al Gore,40.539803
+2000,Georgia,2000-11-07,George W. Bush,50.670102
+2000,Georgia,2000-11-07,Ralph Nader,2.9292253
+2000,Hawaii,2000-11-07,Al Gore,52.079752
+2000,Hawaii,2000-11-07,George W. Bush,34.642464
+2000,Hawaii,2000-11-07,Ralph Nader,5.8104399
+2000,Idaho,2000-11-07,Al Gore,26.858225
+2000,Idaho,2000-11-07,George W. Bush,60.838152
+2000,Idaho,2000-11-07,Ralph Nader,2.2907711
+2000,Illinois,2000-11-07,Al Gore,47.253009
+2000,Illinois,2000-11-07,George W. Bush,42.548397
+2000,Illinois,2000-11-07,Ralph Nader,2.9562092
+2000,Indiana,2000-11-07,Al Gore,34.544446
+2000,Indiana,2000-11-07,George W. Bush,54.286509
+2000,Indiana,2000-11-07,Ralph Nader,1.3983096
+2000,Iowa,2000-11-07,Al Gore,44.900912
+2000,Iowa,2000-11-07,George W. Bush,44.551661
+2000,Iowa,2000-11-07,Ralph Nader,3.1811172
+2000,Kansas,2000-11-07,Al Gore,35.187645
+2000,Kansas,2000-11-07,George W. Bush,55.32072
+2000,Kansas,2000-11-07,Ralph Nader,3.068364
+2000,Kentucky,2000-11-07,Al Gore,40.641904
+2000,Kentucky,2000-11-07,George W. Bush,53.664979
+2000,Kentucky,2000-11-07,Ralph Nader,2.8471458
+2000,Louisiana,2000-11-07,Al Gore,39.244476
+2000,Louisiana,2000-11-07,George W. Bush,46.784041
+2000,Louisiana,2000-11-07,Ralph Nader,1.4051652
+2000,Maine,2000-11-07,Al Gore,45.534507
+2000,Maine,2000-11-07,George W. Bush,41.147452
+2000,Maine,2000-11-07,Ralph Nader,5.1328309
+2000,Maryland,2000-11-07,Al Gore,52.162341
+2000,Maryland,2000-11-07,George W. Bush,39.572493
+2000,Maryland,2000-11-07,Ralph Nader,3.9028716
+2000,Massachusetts,2000-11-07,Al Gore,55.10759
+2000,Massachusetts,2000-11-07,George W. Bush,30.392158
+2000,Massachusetts,2000-11-07,Ralph Nader,6.6856065
+2000,Michigan,2000-11-07,Al Gore,46.399564
+2000,Michigan,2000-11-07,George W. Bush,44.233336
+2000,Michigan,2000-11-07,Ralph Nader,3.5123997
+2000,Minnesota,2000-11-07,Al Gore,44.708419
+2000,Minnesota,2000-11-07,George W. Bush,40.992023
+2000,Minnesota,2000-11-07,Ralph Nader,7.9563911
+2000,Mississippi,2000-11-07,Al Gore,38.42805
+2000,Mississippi,2000-11-07,George W. Bush,51.97967
+2000,Mississippi,2000-11-07,Ralph Nader,0.98615866
+2000,Missouri,2000-11-07,Al Gore,45.054595
+2000,Missouri,2000-11-07,George W. Bush,47.857597
+2000,Missouri,2000-11-07,Ralph Nader,2.6829888
+2000,Montana,2000-11-07,Al Gore,32.346911
+2000,Montana,2000-11-07,George W. Bush,52.987474
+2000,Montana,2000-11-07,Ralph Nader,4.823346
+2000,National,2000-11-07,Al Gore,43.323453
+2000,National,2000-11-07,George W. Bush,46.945554
+2000,National,2000-11-07,Ralph Nader,3.7936984
+2000,Nebraska,2000-11-07,Al Gore,34.333161
+2000,Nebraska,2000-11-07,George W. Bush,57.045983
+2000,Nebraska,2000-11-07,Ralph Nader,2.6156053
+2000,Nevada,2000-11-07,Al Gore,43.036997
+2000,Nevada,2000-11-07,George W. Bush,48.091576
+2000,Nevada,2000-11-07,Ralph Nader,3.0117374
+2000,New Hampshire,2000-11-07,Al Gore,41.003838
+2000,New Hampshire,2000-11-07,George W. Bush,45.458147
+2000,New Hampshire,2000-11-07,Ralph Nader,5.6716163
+2000,New Jersey,2000-11-07,Al Gore,48.682663
+2000,New Jersey,2000-11-07,George W. Bush,39.27333
+2000,New Jersey,2000-11-07,Ralph Nader,4.879953
+2000,New Mexico,2000-11-07,Al Gore,44.723852
+2000,New Mexico,2000-11-07,George W. Bush,43.909975
+2000,New Mexico,2000-11-07,Ralph Nader,4.7819596
+2000,New York,2000-11-07,Al Gore,52.79625
+2000,New York,2000-11-07,George W. Bush,35.993062
+2000,New York,2000-11-07,Ralph Nader,5.5125696
+2000,North Carolina,2000-11-07,Al Gore,41.733597
+2000,North Carolina,2000-11-07,George W. Bush,51.50862
+2000,North Carolina,2000-11-07,Ralph Nader,1.1170464
+2000,North Dakota,2000-11-07,Al Gore,34.51015
+2000,North Dakota,2000-11-07,George W. Bush,49.776534
+2000,North Dakota,2000-11-07,Ralph Nader,1.9845407
+2000,Ohio,2000-11-07,Al Gore,42.433913
+2000,Ohio,2000-11-07,George W. Bush,49.96599
+2000,Ohio,2000-11-07,Ralph Nader,3.6587715
+2000,Oklahoma,2000-11-07,Al Gore,37.20398
+2000,Oklahoma,2000-11-07,George W. Bush,56.07913
+2000,Oklahoma,2000-11-07,Ralph Nader,0.9712999
+2000,Oregon,2000-11-07,Al Gore,44.507462
+2000,Oregon,2000-11-07,George W. Bush,44.46683
+2000,Oregon,2000-11-07,Ralph Nader,6.5044911
+2000,Pennsylvania,2000-11-07,Al Gore,46.367906
+2000,Pennsylvania,2000-11-07,George W. Bush,44.667289
+2000,Pennsylvania,2000-11-07,Ralph Nader,4.1448676
+2000,Rhode Island,2000-11-07,Al Gore,52.319718
+2000,Rhode Island,2000-11-07,George W. Bush,30.375767
+2000,Rhode Island,2000-11-07,Ralph Nader,6.0979798
+2000,South Carolina,2000-11-07,Al Gore,38.884246
+2000,South Carolina,2000-11-07,George W. Bush,53.182232
+2000,South Carolina,2000-11-07,Ralph Nader,1.6038655
+2000,South Dakota,2000-11-07,Al Gore,33.539587
+2000,South Dakota,2000-11-07,George W. Bush,54.262924
+2000,Tennessee,2000-11-07,Al Gore,46.032948
+2000,Tennessee,2000-11-07,George W. Bush,47.999213
+2000,Tennessee,2000-11-07,Ralph Nader,1.8796737
+2000,Texas,2000-11-07,Al Gore,32.296191
+2000,Texas,2000-11-07,George W. Bush,59.714643
+2000,Texas,2000-11-07,Ralph Nader,2.6257624
+2000,Utah,2000-11-07,Al Gore,24.619824
+2000,Utah,2000-11-07,George W. Bush,62.430116
+2000,Utah,2000-11-07,Ralph Nader,4.5047955
+2000,Vermont,2000-11-07,Al Gore,46.85579
+2000,Vermont,2000-11-07,George W. Bush,37.134771
+2000,Vermont,2000-11-07,Ralph Nader,5.9092938
+2000,Virginia,2000-11-07,Al Gore,42.210553
+2000,Virginia,2000-11-07,George W. Bush,50.5424
+2000,Virginia,2000-11-07,Ralph Nader,2.8479833
+2000,Washington,2000-11-07,Al Gore,45.177247
+2000,Washington,2000-11-07,George W. Bush,45.010895
+2000,Washington,2000-11-07,Ralph Nader,5.4131785
+2000,West Virginia,2000-11-07,Al Gore,42.258471
+2000,West Virginia,2000-11-07,George W. Bush,46.980171
+2000,West Virginia,2000-11-07,Ralph Nader,2.3135891
+2000,Wisconsin,2000-11-07,Al Gore,43.910057
+2000,Wisconsin,2000-11-07,George W. Bush,46.196795
+2000,Wisconsin,2000-11-07,Ralph Nader,5.2633836
+2000,Wyoming,2000-11-07,Al Gore,29.687844
+2000,Wyoming,2000-11-07,George W. Bush,58.700252
+2004,Alabama,2004-11-02,George W. Bush,56.778493
+2004,Alabama,2004-11-02,John Kerry,35.153022
+2004,Alaska,2004-11-02,George W. Bush,57.311515
+2004,Alaska,2004-11-02,John Kerry,31.118299
+2004,Arizona,2004-11-02,George W. Bush,51.647917
+2004,Arizona,2004-11-02,John Kerry,42.353901
+2004,Arkansas,2004-11-02,George W. Bush,49.875212
+2004,Arkansas,2004-11-02,John Kerry,46.05477
+2004,California,2004-11-02,George W. Bush,41.651258
+2004,California,2004-11-02,John Kerry,52.385393
+2004,Colorado,2004-11-02,George W. Bush,49.588063
+2004,Colorado,2004-11-02,John Kerry,45.309328
+2004,Connecticut,2004-11-02,George W. Bush,39.587914
+2004,Connecticut,2004-11-02,John Kerry,50.968638
+2004,Delaware,2004-11-02,George W. Bush,40.418493
+2004,Delaware,2004-11-02,John Kerry,47.686023
+2004,Florida,2004-11-02,George W. Bush,47.942048
+2004,Florida,2004-11-02,John Kerry,47.364931
+2004,Georgia,2004-11-02,George W. Bush,54.186477
+2004,Georgia,2004-11-02,John Kerry,41.540177
+2004,Hawaii,2004-11-02,George W. Bush,43.339587
+2004,Hawaii,2004-11-02,John Kerry,45.794949
+2004,Idaho,2004-11-02,George W. Bush,57.587887
+2004,Idaho,2004-11-02,John Kerry,27.835825
+2004,Illinois,2004-11-02,George W. Bush,42.901402
+2004,Illinois,2004-11-02,John Kerry,51.746566
+2004,Indiana,2004-11-02,George W. Bush,57.262583
+2004,Indiana,2004-11-02,John Kerry,36.95455
+2004,Iowa,2004-11-02,George W. Bush,47.417262
+2004,Iowa,2004-11-02,John Kerry,46.264535
+2004,Kansas,2004-11-02,George W. Bush,58.554502
+2004,Kansas,2004-11-02,John Kerry,34.482297
+2004,Kentucky,2004-11-02,George W. Bush,57.102233
+2004,Kentucky,2004-11-02,John Kerry,38.181241
+2004,Louisiana,2004-11-02,George W. Bush,52.1351
+2004,Louisiana,2004-11-02,John Kerry,35.99788
+2004,Maine,2004-11-02,George W. Bush,42.705837
+2004,Maine,2004-11-02,John Kerry,50.048318
+2004,Maryland,2004-11-02,George W. Bush,41.272267
+2004,Maryland,2004-11-02,John Kerry,53.865381
+2004,Massachusetts,2004-11-02,George W. Bush,31.493788
+2004,Massachusetts,2004-11-02,John Kerry,57.661592
+2004,Michigan,2004-11-02,George W. Bush,45.029846
+2004,Michigan,2004-11-02,John Kerry,48.691046
+2004,Minnesota,2004-11-02,George W. Bush,45.162146
+2004,Minnesota,2004-11-02,John Kerry,48.248413
+2004,Mississippi,2004-11-02,George W. Bush,54.250916
+2004,Mississippi,2004-11-02,John Kerry,37.824067
+2004,Missouri,2004-11-02,George W. Bush,51.235948
+2004,Missouri,2004-11-02,John Kerry,45.337555
+2004,Montana,2004-11-02,George W. Bush,56.754379
+2004,Montana,2004-11-02,John Kerry,33.714633
+2004,National,2004-11-02,George W. Bush,48.604056
+2004,National,2004-11-02,John Kerry,46.982615
+2004,Nebraska,2004-11-02,George W. Bush,61.015127
+2004,Nebraska,2004-11-02,John Kerry,31.525627
+2004,Nevada,2004-11-02,George W. Bush,50.325923
+2004,Nevada,2004-11-02,John Kerry,45.188758
+2004,New Hampshire,2004-11-02,George W. Bush,46.451957
+2004,New Hampshire,2004-11-02,John Kerry,48.624872
+2004,New Jersey,2004-11-02,George W. Bush,41.803173
+2004,New Jersey,2004-11-02,John Kerry,48.995247
+2004,New Mexico,2004-11-02,George W. Bush,48.429972
+2004,New Mexico,2004-11-02,John Kerry,44.911481
+2004,New York,2004-11-02,George W. Bush,38.15427
+2004,New York,2004-11-02,John Kerry,54.340684
+2004,North Carolina,2004-11-02,George W. Bush,51.6375
+2004,North Carolina,2004-11-02,John Kerry,43.381614
+2004,North Dakota,2004-11-02,George W. Bush,58.542749
+2004,North Dakota,2004-11-02,John Kerry,33.772825
+2004,Ohio,2004-11-02,George W. Bush,47.935848
+2004,Ohio,2004-11-02,John Kerry,47.973979
+2004,Oklahoma,2004-11-02,George W. Bush,62.178045
+2004,Oklahoma,2004-11-02,John Kerry,32.688553
+2004,Oregon,2004-11-02,George W. Bush,45.281829
+2004,Oregon,2004-11-02,John Kerry,50.530961
+2004,Pennsylvania,2004-11-02,George W. Bush,47.365677
+2004,Pennsylvania,2004-11-02,John Kerry,48.729059
+2004,Rhode Island,2004-11-02,George W. Bush,36.35829
+2004,Rhode Island,2004-11-02,John Kerry,54.849934
+2004,South Carolina,2004-11-02,George W. Bush,54.899186
+2004,South Carolina,2004-11-02,John Kerry,39.155158
+2004,South Dakota,2004-11-02,George W. Bush,54.363716
+2004,South Dakota,2004-11-02,John Kerry,37.609466
+2004,Tennessee,2004-11-02,George W. Bush,54.39388
+2004,Tennessee,2004-11-02,John Kerry,42.342747
+2004,Texas,2004-11-02,George W. Bush,58.493298
+2004,Texas,2004-11-02,John Kerry,35.652891
+2004,Utah,2004-11-02,George W. Bush,68.299947
+2004,Utah,2004-11-02,John Kerry,24.109276
+2004,Vermont,2004-11-02,George W. Bush,40.149375
+2004,Vermont,2004-11-02,John Kerry,49.357665
+2004,Virginia,2004-11-02,George W. Bush,49.767129
+2004,Virginia,2004-11-02,John Kerry,43.916727
+2004,Washington,2004-11-02,George W. Bush,45.356803
+2004,Washington,2004-11-02,John Kerry,51.681792
+2004,West Virginia,2004-11-02,George W. Bush,50.819612
+2004,West Virginia,2004-11-02,John Kerry,44.495975
+2004,Wisconsin,2004-11-02,George W. Bush,48.105038
+2004,Wisconsin,2004-11-02,John Kerry,46.387916
+2008,Alabama,2008-11-04,Barack Obama,35.858475
+2008,Alabama,2008-11-04,John McCain,58.282539
+2008,Alaska,2008-11-04,Barack Obama,41.419908
+2008,Alaska,2008-11-04,John McCain,55.604341
+2008,Arizona,2008-11-04,Barack Obama,45.233846
+2008,Arizona,2008-11-04,John McCain,49.373538
+2008,Arkansas,2008-11-04,Barack Obama,42.823934
+2008,Arkansas,2008-11-04,John McCain,51.925759
+2008,California,2008-11-04,Barack Obama,57.522385
+2008,California,2008-11-04,John McCain,35.202295
+2008,Colorado,2008-11-04,Barack Obama,51.302013
+2008,Colorado,2008-11-04,John McCain,44.45558
+2008,Connecticut,2008-11-04,Barack Obama,56.510289
+2008,Connecticut,2008-11-04,John McCain,36.288263
+2008,Delaware,2008-11-04,Barack Obama,59.585339
+2008,Delaware,2008-11-04,John McCain,35.343992
+2008,Florida,2008-11-04,Barack Obama,48.108337
+2008,Florida,2008-11-04,John McCain,46.620754
+2008,Georgia,2008-11-04,Barack Obama,45.796409
+2008,Georgia,2008-11-04,John McCain,50.060306
+2008,Hawaii,2008-11-04,Barack Obama,59.752297
+2008,Hawaii,2008-11-04,John McCain,33.055045
+2008,Idaho,2008-11-04,Barack Obama,32.100732
+2008,Idaho,2008-11-04,John McCain,60.262287
+2008,Illinois,2008-11-04,Barack Obama,59.354164
+2008,Illinois,2008-11-04,John McCain,36.792375
+2008,Indiana,2008-11-04,Barack Obama,47.005797
+2008,Indiana,2008-11-04,John McCain,48.007432
+2008,Iowa,2008-11-04,Barack Obama,52.852666
+2008,Iowa,2008-11-04,John McCain,40.020787
+2008,Kansas,2008-11-04,Barack Obama,38.483246
+2008,Kansas,2008-11-04,John McCain,55.198059
+2008,Kentucky,2008-11-04,Barack Obama,41.070429
+2008,Kentucky,2008-11-04,John McCain,53.512526
+2008,Louisiana,2008-11-04,Barack Obama,41.531393
+2008,Louisiana,2008-11-04,John McCain,52.142941
+2008,Maine,2008-11-04,Barack Obama,55.215782
+2008,Maine,2008-11-04,John McCain,39.106609
+2008,Maryland,2008-11-04,Barack Obama,58.011276
+2008,Maryland,2008-11-04,John McCain,37.447991
+2008,Massachusetts,2008-11-04,Barack Obama,56.361476
+2008,Massachusetts,2008-11-04,John McCain,38.0118
+2008,Michigan,2008-11-04,Barack Obama,53.70322
+2008,Michigan,2008-11-04,John McCain,40.474269
+2008,Minnesota,2008-11-04,Barack Obama,52.376347
+2008,Minnesota,2008-11-04,John McCain,41.769365
+2008,Mississippi,2008-11-04,Barack Obama,41.028078
+2008,Mississippi,2008-11-04,John McCain,52.134387
+2008,Missouri,2008-11-04,Barack Obama,47.35975
+2008,Missouri,2008-11-04,John McCain,48.366582
+2008,Montana,2008-11-04,Barack Obama,44.86544
+2008,Montana,2008-11-04,John McCain,49.9553
+2008,National,2008-11-04,Barack Obama,50.990174
+2008,National,2008-11-04,John McCain,43.820694
+2008,Nebraska,2008-11-04,Barack Obama,37.480707
+2008,Nebraska,2008-11-04,John McCain,56.518208
+2008,Nevada,2008-11-04,Barack Obama,50.390004
+2008,Nevada,2008-11-04,John McCain,44.940076
+2008,New Hampshire,2008-11-04,Barack Obama,52.275229
+2008,New Hampshire,2008-11-04,John McCain,41.479962
+2008,New Jersey,2008-11-04,Barack Obama,54.871929
+2008,New Jersey,2008-11-04,John McCain,38.070582
+2008,New Mexico,2008-11-04,Barack Obama,53.42745
+2008,New Mexico,2008-11-04,John McCain,43.638586
+2008,New York,2008-11-04,Barack Obama,61.370024
+2008,New York,2008-11-04,John McCain,33.14513
+2008,North Carolina,2008-11-04,Barack Obama,48.35763
+2008,North Carolina,2008-11-04,John McCain,47.537201
+2008,North Dakota,2008-11-04,Barack Obama,44.24359
+2008,North Dakota,2008-11-04,John McCain,45.482196
+2008,Ohio,2008-11-04,Barack Obama,49.617053
+2008,Ohio,2008-11-04,John McCain,45.06243
+2008,Oklahoma,2008-11-04,Barack Obama,35.542093
+2008,Oklahoma,2008-11-04,John McCain,60.345032
+2008,Oregon,2008-11-04,Barack Obama,54.806549
+2008,Oregon,2008-11-04,John McCain,39.513303
+2008,Pennsylvania,2008-11-04,Barack Obama,51.486452
+2008,Pennsylvania,2008-11-04,John McCain,43.569344
+2008,Rhode Island,2008-11-04,Barack Obama,55.351109
+2008,Rhode Island,2008-11-04,John McCain,35.97356
+2008,South Carolina,2008-11-04,Barack Obama,42.876454
+2008,South Carolina,2008-11-04,John McCain,52.158721
+2008,South Dakota,2008-11-04,Barack Obama,42.894873
+2008,South Dakota,2008-11-04,John McCain,51.822615
+2008,Tennessee,2008-11-04,Barack Obama,41.722512
+2008,Tennessee,2008-11-04,John McCain,53.884657
+2008,Texas,2008-11-04,Barack Obama,42.507628
+2008,Texas,2008-11-04,John McCain,54.721444
+2008,Utah,2008-11-04,Barack Obama,32.651839
+2008,Utah,2008-11-04,John McCain,59.107982
+2008,Vermont,2008-11-04,Barack Obama,60.060211
+2008,Vermont,2008-11-04,John McCain,33.011047
+2008,Virginia,2008-11-04,Barack Obama,50.345379
+2008,Virginia,2008-11-04,John McCain,45.131525
+2008,Washington,2008-11-04,Barack Obama,53.835668
+2008,Washington,2008-11-04,John McCain,40.286385
+2008,West Virginia,2008-11-04,Barack Obama,40.809777
+2008,West Virginia,2008-11-04,John McCain,53.793842
+2008,Wisconsin,2008-11-04,Barack Obama,52.664907
+2008,Wisconsin,2008-11-04,John McCain,40.688035
+2008,Wyoming,2008-11-04,Barack Obama,33.176088
+2008,Wyoming,2008-11-04,John McCain,60.048928
+2012,Alabama,2012-11-06,Barack Obama,35.623535
+2012,Alabama,2012-11-06,Mitt Romney,53.690322
+2012,Arizona,2012-11-06,Barack Obama,44.002949
+2012,Arizona,2012-11-06,Mitt Romney,52.525115
+2012,Arkansas,2012-11-06,Barack Obama,32.926966
+2012,Arkansas,2012-11-06,Mitt Romney,57.734143
+2012,California,2012-11-06,Barack Obama,54.853727
+2012,California,2012-11-06,Mitt Romney,39.275914
+2012,Colorado,2012-11-06,Barack Obama,48.290802
+2012,Colorado,2012-11-06,Mitt Romney,47.707898
+2012,Connecticut,2012-11-06,Barack Obama,53.670551
+2012,Connecticut,2012-11-06,Mitt Romney,41.265169
+2012,District of Columbia,2012-11-06,Barack Obama,87.344071
+2012,District of Columbia,2012-11-06,Mitt Romney,8.4494673
+2012,Florida,2012-11-06,Barack Obama,47.634723
+2012,Florida,2012-11-06,Mitt Romney,49.181008
+2012,Georgia,2012-11-06,Barack Obama,43.65606
+2012,Georgia,2012-11-06,Mitt Romney,53.397991
+2012,Hawaii,2012-11-06,Barack Obama,61.42352
+2012,Hawaii,2012-11-06,Mitt Romney,33.195114
+2012,Idaho,2012-11-06,Barack Obama,27.09037
+2012,Idaho,2012-11-06,Mitt Romney,62.799298
+2012,Illinois,2012-11-06,Barack Obama,55.665689
+2012,Illinois,2012-11-06,Mitt Romney,38.852062
+2012,Indiana,2012-11-06,Barack Obama,42.112778
+2012,Indiana,2012-11-06,Mitt Romney,53.07087
+2012,Iowa,2012-11-06,Barack Obama,48.072818
+2012,Iowa,2012-11-06,Mitt Romney,46.580157
+2012,Kansas,2012-11-06,Barack Obama,33.987826
+2012,Kansas,2012-11-06,Mitt Romney,55.563704
+2012,Kentucky,2012-11-06,Barack Obama,38.72088
+2012,Kentucky,2012-11-06,Mitt Romney,54.38845
+2012,Louisiana,2012-11-06,Barack Obama,36.768243
+2012,Louisiana,2012-11-06,Mitt Romney,54.552332
+2012,ME-1,2012-11-06,Barack Obama,56.220226
+2012,ME-1,2012-11-06,Mitt Romney,39.809959
+2012,ME-2,2012-11-06,Barack Obama,49.425668
+2012,ME-2,2012-11-06,Mitt Romney,46.112994
+2012,Maine,2012-11-06,Barack Obama,52.556736
+2012,Maine,2012-11-06,Mitt Romney,42.117294
+2012,Maryland,2012-11-06,Barack Obama,57.525837
+2012,Maryland,2012-11-06,Mitt Romney,37.484644
+2012,Massachusetts,2012-11-06,Barack Obama,56.852048
+2012,Massachusetts,2012-11-06,Mitt Romney,39.295166
+2012,Michigan,2012-11-06,Barack Obama,49.748667
+2012,Michigan,2012-11-06,Mitt Romney,45.507971
+2012,Minnesota,2012-11-06,Barack Obama,50.850344
+2012,Minnesota,2012-11-06,Mitt Romney,44.702421
+2012,Missouri,2012-11-06,Barack Obama,42.372821
+2012,Missouri,2012-11-06,Mitt Romney,54.177646
+2012,Montana,2012-11-06,Barack Obama,43.484368
+2012,Montana,2012-11-06,Mitt Romney,52.34363
+2012,NE-1,2012-11-06,Barack Obama,39.953449
+2012,NE-1,2012-11-06,Mitt Romney,49.875825
+2012,NE-2,2012-11-06,Barack Obama,44.127826
+2012,NE-2,2012-11-06,Mitt Romney,47.739852
+2012,NE-3,2012-11-06,Barack Obama,27.06937
+2012,NE-3,2012-11-06,Mitt Romney,62.841278
+2012,National,2012-11-06,Barack Obama,48.100725
+2012,National,2012-11-06,Mitt Romney,47.74572
+2012,Nebraska,2012-11-06,Barack Obama,38.929304
+2012,Nebraska,2012-11-06,Mitt Romney,56.307357
+2012,Nevada,2012-11-06,Barack Obama,49.93103
+2012,Nevada,2012-11-06,Mitt Romney,46.755681
+2012,New Hampshire,2012-11-06,Barack Obama,48.49889
+2012,New Hampshire,2012-11-06,Mitt Romney,47.566634
+2012,New Jersey,2012-11-06,Barack Obama,52.229467
+2012,New Jersey,2012-11-06,Mitt Romney,41.476088
+2012,New Mexico,2012-11-06,Barack Obama,49.905268
+2012,New Mexico,2012-11-06,Mitt Romney,43.455838
+2012,New York,2012-11-06,Barack Obama,59.796929
+2012,New York,2012-11-06,Mitt Romney,36.126627
+2012,North Carolina,2012-11-06,Barack Obama,46.504795
+2012,North Carolina,2012-11-06,Mitt Romney,49.581441
+2012,North Dakota,2012-11-06,Barack Obama,38.780472
+2012,North Dakota,2012-11-06,Mitt Romney,54.59866
+2012,Ohio,2012-11-06,Barack Obama,49.171259
+2012,Ohio,2012-11-06,Mitt Romney,47.157851
+2012,Oklahoma,2012-11-06,Barack Obama,30.318942
+2012,Oklahoma,2012-11-06,Mitt Romney,60.252571
+2012,Oregon,2012-11-06,Barack Obama,48.07413
+2012,Oregon,2012-11-06,Mitt Romney,42.697316
+2012,Pennsylvania,2012-11-06,Barack Obama,49.881312
+2012,Pennsylvania,2012-11-06,Mitt Romney,45.946271
+2012,Rhode Island,2012-11-06,Barack Obama,55.353336
+2012,Rhode Island,2012-11-06,Mitt Romney,33.733549
+2012,South Carolina,2012-11-06,Barack Obama,42.771209
+2012,South Carolina,2012-11-06,Mitt Romney,46.219115
+2012,South Dakota,2012-11-06,Barack Obama,40.736824
+2012,South Dakota,2012-11-06,Mitt Romney,52.887665
+2012,Tennessee,2012-11-06,Barack Obama,38.939167
+2012,Tennessee,2012-11-06,Mitt Romney,53.872375
+2012,Texas,2012-11-06,Barack Obama,38.706372
+2012,Texas,2012-11-06,Mitt Romney,57.416483
+2012,Utah,2012-11-06,Barack Obama,24.505127
+2012,Utah,2012-11-06,Mitt Romney,70.667229
+2012,Vermont,2012-11-06,Barack Obama,59.85286
+2012,Vermont,2012-11-06,Mitt Romney,28.952989
+2012,Virginia,2012-11-06,Barack Obama,48.265883
+2012,Virginia,2012-11-06,Mitt Romney,47.286955
+2012,Washington,2012-11-06,Barack Obama,53.39461
+2012,Washington,2012-11-06,Mitt Romney,42.214919
+2012,West Virginia,2012-11-06,Barack Obama,37.407189
+2012,West Virginia,2012-11-06,Mitt Romney,54.161871
+2012,Wisconsin,2012-11-06,Barack Obama,49.892816
+2012,Wisconsin,2012-11-06,Mitt Romney,46.140313
+2016,Alabama,2016-11-08,Donald Trump,56.33739
+2016,Alabama,2016-11-08,Gary Johnson,4.768962
+2016,Alabama,2016-11-08,Hillary Rodham Clinton,35.14891
+2016,Alaska,2016-11-08,Donald Trump,45.18066
+2016,Alaska,2016-11-08,Gary Johnson,6.983182
+2016,Alaska,2016-11-08,Hillary Rodham Clinton,39.10066
+2016,Arizona,2016-11-08,Donald Trump,45.62801
+2016,Arizona,2016-11-08,Gary Johnson,4.717722
+2016,Arizona,2016-11-08,Hillary Rodham Clinton,42.92815
+2016,Arkansas,2016-11-08,Donald Trump,53.01347
+2016,Arkansas,2016-11-08,Gary Johnson,4.439748
+2016,Arkansas,2016-11-08,Hillary Rodham Clinton,33.52097
+2016,California,2016-11-08,Donald Trump,32.8349
+2016,California,2016-11-08,Gary Johnson,4.559095
+2016,California,2016-11-08,Hillary Rodham Clinton,54.91905
+2016,Colorado,2016-11-08,Donald Trump,40.76717
+2016,Colorado,2016-11-08,Gary Johnson,6.484955
+2016,Colorado,2016-11-08,Hillary Rodham Clinton,43.64732
+2016,Connecticut,2016-11-08,Donald Trump,36.54399
+2016,Connecticut,2016-11-08,Gary Johnson,5.895185
+2016,Connecticut,2016-11-08,Hillary Rodham Clinton,51.05077
+2016,Delaware,2016-11-08,Donald Trump,36.12701
+2016,Delaware,2016-11-08,Gary Johnson,5.751102
+2016,Delaware,2016-11-08,Hillary Rodham Clinton,50.08618
+2016,District of Columbia,2016-11-08,Donald Trump,6.497689
+2016,District of Columbia,2016-11-08,Gary Johnson,1.225365
+2016,District of Columbia,2016-11-08,Hillary Rodham Clinton,85.58946
+2016,Florida,2016-11-08,Donald Trump,45.47896
+2016,Florida,2016-11-08,Gary Johnson,2.99353
+2016,Florida,2016-11-08,Hillary Rodham Clinton,46.39832
+2016,Georgia,2016-11-08,Donald Trump,48.316
+2016,Georgia,2016-11-08,Gary Johnson,4.11641
+2016,Georgia,2016-11-08,Hillary Rodham Clinton,44.38727
+2016,Hawaii,2016-11-08,Donald Trump,27.94424
+2016,Hawaii,2016-11-08,Gary Johnson,7.098518
+2016,Hawaii,2016-11-08,Hillary Rodham Clinton,51.88781
+2016,Idaho,2016-11-08,Donald Trump,46.02107
+2016,Idaho,2016-11-08,Gary Johnson,6.815846
+2016,Idaho,2016-11-08,Hillary Rodham Clinton,29.68751
+2016,Illinois,2016-11-08,Donald Trump,36.58762
+2016,Illinois,2016-11-08,Gary Johnson,5.190423
+2016,Illinois,2016-11-08,Hillary Rodham Clinton,50.97485
+2016,Indiana,2016-11-08,Donald Trump,50.26141
+2016,Indiana,2016-11-08,Gary Johnson,6.229885
+2016,Indiana,2016-11-08,Hillary Rodham Clinton,37.3296
+2016,Iowa,2016-11-08,Donald Trump,45.12743
+2016,Iowa,2016-11-08,Gary Johnson,5.345151
+2016,Iowa,2016-11-08,Hillary Rodham Clinton,40.87534
+2016,Kansas,2016-11-08,Donald Trump,50.45113
+2016,Kansas,2016-11-08,Gary Johnson,7.878945
+2016,Kansas,2016-11-08,Hillary Rodham Clinton,36.81242
+2016,Kentucky,2016-11-08,Donald Trump,54.86697
+2016,Kentucky,2016-11-08,Gary Johnson,4.197469
+2016,Kentucky,2016-11-08,Hillary Rodham Clinton,33.53967
+2016,Louisiana,2016-11-08,Donald Trump,50.27185
+2016,Louisiana,2016-11-08,Gary Johnson,3.904551
+2016,Louisiana,2016-11-08,Hillary Rodham Clinton,37.1587
+2016,ME-1,2016-11-08,Donald Trump,35.85163
+2016,ME-1,2016-11-08,Gary Johnson,6.30644
+2016,ME-1,2016-11-08,Hillary Rodham Clinton,48.6913
+2016,ME-2,2016-11-08,Donald Trump,40.52275
+2016,ME-2,2016-11-08,Gary Johnson,7.705639
+2016,ME-2,2016-11-08,Hillary Rodham Clinton,41.05555
+2016,Maine,2016-11-08,Donald Trump,39.34103
+2016,Maine,2016-11-08,Gary Johnson,6.162638
+2016,Maine,2016-11-08,Hillary Rodham Clinton,46.01504
+2016,Maryland,2016-11-08,Donald Trump,27.36444
+2016,Maryland,2016-11-08,Gary Johnson,5.180215
+2016,Maryland,2016-11-08,Hillary Rodham Clinton,59.92575
+2016,Massachusetts,2016-11-08,Donald Trump,28.04336
+2016,Massachusetts,2016-11-08,Gary Johnson,5.590199
+2016,Massachusetts,2016-11-08,Hillary Rodham Clinton,55.71963
+2016,Michigan,2016-11-08,Donald Trump,42.5041
+2016,Michigan,2016-11-08,Gary Johnson,4.548439
+2016,Michigan,2016-11-08,Hillary Rodham Clinton,45.66772
+2016,Minnesota,2016-11-08,Donald Trump,38.05634
+2016,Minnesota,2016-11-08,Gary Johnson,7.559665
+2016,Minnesota,2016-11-08,Hillary Rodham Clinton,46.96928
+2016,Mississippi,2016-11-08,Donald Trump,49.24459
+2016,Mississippi,2016-11-08,Gary Johnson,3.599995
+2016,Mississippi,2016-11-08,Hillary Rodham Clinton,41.43731
+2016,Missouri,2016-11-08,Donald Trump,50.33763
+2016,Missouri,2016-11-08,Gary Johnson,4.981728
+2016,Missouri,2016-11-08,Hillary Rodham Clinton,38.22606
+2016,Montana,2016-11-08,Donald Trump,50.71006
+2016,Montana,2016-11-08,Gary Johnson,9.543083
+2016,Montana,2016-11-08,Hillary Rodham Clinton,32.67339
+2016,NE-1,2016-11-08,Donald Trump,52.44244
+2016,NE-1,2016-11-08,Hillary Rodham Clinton,29.11171
+2016,NE-2,2016-11-08,Donald Trump,47.65215
+2016,NE-2,2016-11-08,Gary Johnson,7.116786
+2016,NE-2,2016-11-08,Hillary Rodham Clinton,40.67958
+2016,NE-3,2016-11-08,Donald Trump,64.47254
+2016,NE-3,2016-11-08,Hillary Rodham Clinton,20.09604
+2016,National,2016-11-08,Donald Trump,41.88613
+2016,National,2016-11-08,Gary Johnson,4.859068
+2016,National,2016-11-08,Hillary Rodham Clinton,45.83657
+2016,Nebraska,2016-11-08,Donald Trump,51.39848
+2016,Nebraska,2016-11-08,Gary Johnson,7.174087
+2016,Nebraska,2016-11-08,Hillary Rodham Clinton,33.61203
+2016,Nevada,2016-11-08,Donald Trump,44.21117
+2016,Nevada,2016-11-08,Gary Johnson,4.80453
+2016,Nevada,2016-11-08,Hillary Rodham Clinton,44.89117
+2016,New Hampshire,2016-11-08,Donald Trump,42.30153
+2016,New Hampshire,2016-11-08,Gary Johnson,6.213722
+2016,New Hampshire,2016-11-08,Hillary Rodham Clinton,44.56515
+2016,New Jersey,2016-11-08,Donald Trump,37.7098
+2016,New Jersey,2016-11-08,Gary Johnson,3.613963
+2016,New Jersey,2016-11-08,Hillary Rodham Clinton,51.68812
+2016,New Mexico,2016-11-08,Donald Trump,38.8953
+2016,New Mexico,2016-11-08,Gary Johnson,11.55219
+2016,New Mexico,2016-11-08,Hillary Rodham Clinton,43.84036
+2016,New York,2016-11-08,Donald Trump,34.79104
+2016,New York,2016-11-08,Gary Johnson,3.56539
+2016,New York,2016-11-08,Hillary Rodham Clinton,54.16473
+2016,North Carolina,2016-11-08,Donald Trump,45.34254
+2016,North Carolina,2016-11-08,Gary Johnson,3.367924
+2016,North Carolina,2016-11-08,Hillary Rodham Clinton,46.44271
+2016,North Dakota,2016-11-08,Donald Trump,55.41327
+2016,North Dakota,2016-11-08,Gary Johnson,9.168311
+2016,North Dakota,2016-11-08,Hillary Rodham Clinton,29.20324
+2016,Ohio,2016-11-08,Donald Trump,45.60511
+2016,Ohio,2016-11-08,Gary Johnson,5.063748
+2016,Ohio,2016-11-08,Hillary Rodham Clinton,42.63316
+2016,Oklahoma,2016-11-08,Donald Trump,57.24548
+2016,Oklahoma,2016-11-08,Gary Johnson,7.234511
+2016,Oklahoma,2016-11-08,Hillary Rodham Clinton,30.79534
+2016,Oregon,2016-11-08,Donald Trump,37.47201
+2016,Oregon,2016-11-08,Gary Johnson,5.76195
+2016,Oregon,2016-11-08,Hillary Rodham Clinton,45.89365
+2016,Pennsylvania,2016-11-08,Donald Trump,43.45462
+2016,Pennsylvania,2016-11-08,Gary Johnson,3.867452
+2016,Pennsylvania,2016-11-08,Hillary Rodham Clinton,46.50476
+2016,Rhode Island,2016-11-08,Donald Trump,36.13606
+2016,Rhode Island,2016-11-08,Gary Johnson,6.384378
+2016,Rhode Island,2016-11-08,Hillary Rodham Clinton,47.45552
+2016,South Carolina,2016-11-08,Donald Trump,47.02014
+2016,South Carolina,2016-11-08,Gary Johnson,3.489989
+2016,South Carolina,2016-11-08,Hillary Rodham Clinton,41.16662
+2016,South Dakota,2016-11-08,Donald Trump,51.40102
+2016,South Dakota,2016-11-08,Gary Johnson,9.322217
+2016,South Dakota,2016-11-08,Hillary Rodham Clinton,32.46563
+2016,Tennessee,2016-11-08,Donald Trump,48.18097
+2016,Tennessee,2016-11-08,Gary Johnson,4.672243
+2016,Tennessee,2016-11-08,Hillary Rodham Clinton,39.00087
+2016,Texas,2016-11-08,Donald Trump,48.32655
+2016,Texas,2016-11-08,Gary Johnson,4.872621
+2016,Texas,2016-11-08,Hillary Rodham Clinton,38.6247
+2016,Utah,2016-11-08,Donald Trump,37.42776
+2016,Utah,2016-11-08,Gary Johnson,4.381258
+2016,Utah,2016-11-08,Hillary Rodham Clinton,26.91846
+2016,Vermont,2016-11-08,Donald Trump,25.78414
+2016,Vermont,2016-11-08,Gary Johnson,6.352446
+2016,Vermont,2016-11-08,Hillary Rodham Clinton,55.18666
+2016,Virginia,2016-11-08,Donald Trump,41.85499
+2016,Virginia,2016-11-08,Gary Johnson,3.720529
+2016,Virginia,2016-11-08,Hillary Rodham Clinton,47.26719
+2016,Washington,2016-11-08,Donald Trump,35.09007
+2016,Washington,2016-11-08,Gary Johnson,4.595997
+2016,Washington,2016-11-08,Hillary Rodham Clinton,50.27108
+2016,West Virginia,2016-11-08,Donald Trump,55.85203
+2016,West Virginia,2016-11-08,Gary Johnson,6.678608
+2016,West Virginia,2016-11-08,Hillary Rodham Clinton,28.61783
+2016,Wisconsin,2016-11-08,Donald Trump,41.64948
+2016,Wisconsin,2016-11-08,Gary Johnson,4.578255
+2016,Wisconsin,2016-11-08,Hillary Rodham Clinton,46.56556
+2016,Wyoming,2016-11-08,Donald Trump,59.95699
+2016,Wyoming,2016-11-08,Gary Johnson,8.226294
+2016,Wyoming,2016-11-08,Hillary Rodham Clinton,22.07957
+2020,Alabama,2020-11-03,Donald Trump,57.36153
+2020,Alabama,2020-11-03,Joseph R. Biden Jr.,37.78223
+2020,Alaska,2020-11-03,Donald Trump,50.99835
+2020,Alaska,2020-11-03,Joseph R. Biden Jr.,43.50767
+2020,Arizona,2020-11-03,Donald Trump,46.11074
+2020,Arizona,2020-11-03,Joseph R. Biden Jr.,48.72237
+2020,Arkansas,2020-11-03,Donald Trump,58.39097
+2020,Arkansas,2020-11-03,Joseph R. Biden Jr.,36.2072
+2020,California,2020-11-03,Donald Trump,32.28521
+2020,California,2020-11-03,Joseph R. Biden Jr.,61.62906
+2020,Colorado,2020-11-03,Donald Trump,41.00156
+2020,Colorado,2020-11-03,Joseph R. Biden Jr.,53.62617
+2020,Connecticut,2020-11-03,Donald Trump,31.95554
+2020,Connecticut,2020-11-03,Joseph R. Biden Jr.,58.38586
+2020,Delaware,2020-11-03,Donald Trump,34.0928
+2020,Delaware,2020-11-03,Joseph R. Biden Jr.,58.69788
+2020,District of Columbia,2020-11-03,Donald Trump,5.640251
+2020,District of Columbia,2020-11-03,Joseph R. Biden Jr.,90.74213
+2020,Florida,2020-11-03,Donald Trump,46.68101
+2020,Florida,2020-11-03,Joseph R. Biden Jr.,49.09162
+2020,Georgia,2020-11-03,Donald Trump,47.32513
+2020,Georgia,2020-11-03,Joseph R. Biden Jr.,48.57144
+2020,Hawaii,2020-11-03,Donald Trump,29.20069
+2020,Hawaii,2020-11-03,Joseph R. Biden Jr.,64.27528
+2020,Idaho,2020-11-03,Donald Trump,56.15257
+2020,Idaho,2020-11-03,Joseph R. Biden Jr.,38.27272
+2020,Illinois,2020-11-03,Donald Trump,39.00851
+2020,Illinois,2020-11-03,Joseph R. Biden Jr.,55.00272
+2020,Indiana,2020-11-03,Donald Trump,52.81413
+2020,Indiana,2020-11-03,Joseph R. Biden Jr.,42.02645
+2020,Iowa,2020-11-03,Donald Trump,47.63221
+2020,Iowa,2020-11-03,Joseph R. Biden Jr.,46.30991
+2020,Kansas,2020-11-03,Donald Trump,53.79849
+2020,Kansas,2020-11-03,Joseph R. Biden Jr.,40.89531
+2020,Kentucky,2020-11-03,Donald Trump,55.4626
+2020,Kentucky,2020-11-03,Joseph R. Biden Jr.,39.73639
+2020,Louisiana,2020-11-03,Donald Trump,57.52434
+2020,Louisiana,2020-11-03,Joseph R. Biden Jr.,37.01124
+2020,ME-1,2020-11-03,Donald Trump,37.06219
+2020,ME-1,2020-11-03,Joseph R. Biden Jr.,57.59848
+2020,ME-2,2020-11-03,Donald Trump,46.22057
+2020,ME-2,2020-11-03,Joseph R. Biden Jr.,49.0097
+2020,Maine,2020-11-03,Donald Trump,40.3441
+2020,Maine,2020-11-03,Joseph R. Biden Jr.,53.31518
+2020,Maryland,2020-11-03,Donald Trump,31.55125
+2020,Maryland,2020-11-03,Joseph R. Biden Jr.,63.02029
+2020,Massachusetts,2020-11-03,Donald Trump,28.56164
+2020,Massachusetts,2020-11-03,Joseph R. Biden Jr.,64.36328
+2020,Michigan,2020-11-03,Donald Trump,43.20577
+2020,Michigan,2020-11-03,Joseph R. Biden Jr.,51.17806
+2020,Minnesota,2020-11-03,Donald Trump,42.63638
+2020,Minnesota,2020-11-03,Joseph R. Biden Jr.,51.86992
+2020,Mississippi,2020-11-03,Donald Trump,55.39824
+2020,Mississippi,2020-11-03,Joseph R. Biden Jr.,39.49166
+2020,Missouri,2020-11-03,Donald Trump,51.47853
+2020,Missouri,2020-11-03,Joseph R. Biden Jr.,43.60328
+2020,Montana,2020-11-03,Donald Trump,49.74744
+2020,Montana,2020-11-03,Joseph R. Biden Jr.,45.34418
+2020,NE-1,2020-11-03,Donald Trump,49.43981
+2020,NE-1,2020-11-03,Joseph R. Biden Jr.,44.54313
+2020,NE-2,2020-11-03,Donald Trump,46.08874
+2020,NE-2,2020-11-03,Joseph R. Biden Jr.,49.99056
+2020,National,2020-11-03,Donald Trump,43.39262
+2020,National,2020-11-03,Joseph R. Biden Jr.,51.84996
+2020,Nebraska,2020-11-03,Donald Trump,51.74755
+2020,Nebraska,2020-11-03,Joseph R. Biden Jr.,42.38914
+2020,Nevada,2020-11-03,Donald Trump,44.32982
+2020,Nevada,2020-11-03,Joseph R. Biden Jr.,49.62386
+2020,New Hampshire,2020-11-03,Donald Trump,42.7887
+2020,New Hampshire,2020-11-03,Joseph R. Biden Jr.,53.90454
+2020,New Jersey,2020-11-03,Donald Trump,37.88028
+2020,New Jersey,2020-11-03,Joseph R. Biden Jr.,58.35078
+2020,New Mexico,2020-11-03,Donald Trump,41.84091
+2020,New Mexico,2020-11-03,Joseph R. Biden Jr.,53.81614
+2020,New York,2020-11-03,Donald Trump,32.77427
+2020,New York,2020-11-03,Joseph R. Biden Jr.,62.21193
+2020,North Carolina,2020-11-03,Donald Trump,47.12687
+2020,North Carolina,2020-11-03,Joseph R. Biden Jr.,48.90633
+2020,North Dakota,2020-11-03,Donald Trump,55.62675
+2020,North Dakota,2020-11-03,Joseph R. Biden Jr.,38.58266
+2020,Ohio,2020-11-03,Donald Trump,47.51268
+2020,Ohio,2020-11-03,Joseph R. Biden Jr.,46.76865
+2020,Oklahoma,2020-11-03,Donald Trump,58.78825
+2020,Oklahoma,2020-11-03,Joseph R. Biden Jr.,36.14497
+2020,Oregon,2020-11-03,Donald Trump,37.04441
+2020,Oregon,2020-11-03,Joseph R. Biden Jr.,58.60912
+2020,Pennsylvania,2020-11-03,Donald Trump,45.57216
+2020,Pennsylvania,2020-11-03,Joseph R. Biden Jr.,50.22
+2020,Rhode Island,2020-11-03,Donald Trump,31.77536
+2020,Rhode Island,2020-11-03,Joseph R. Biden Jr.,62.88512
+2020,South Carolina,2020-11-03,Donald Trump,51.55556
+2020,South Carolina,2020-11-03,Joseph R. Biden Jr.,44.49876
+2020,South Dakota,2020-11-03,Donald Trump,54.1786
+2020,South Dakota,2020-11-03,Joseph R. Biden Jr.,39.04822
+2020,Tennessee,2020-11-03,Donald Trump,54.92919
+2020,Tennessee,2020-11-03,Joseph R. Biden Jr.,40.98734
+2020,Texas,2020-11-03,Donald Trump,48.57118
+2020,Texas,2020-11-03,Joseph R. Biden Jr.,47.46643
+2020,Utah,2020-11-03,Donald Trump,51.59272
+2020,Utah,2020-11-03,Joseph R. Biden Jr.,42.09312
+2020,Vermont,2020-11-03,Donald Trump,27.34287
+2020,Vermont,2020-11-03,Joseph R. Biden Jr.,66.37385
+2020,Virginia,2020-11-03,Donald Trump,41.78265
+2020,Virginia,2020-11-03,Joseph R. Biden Jr.,53.7412
+2020,Washington,2020-11-03,Donald Trump,36.26052
+2020,Washington,2020-11-03,Joseph R. Biden Jr.,59.34201
+2020,West Virginia,2020-11-03,Donald Trump,61.89582
+2020,West Virginia,2020-11-03,Joseph R. Biden Jr.,33.49125
+2020,Wisconsin,2020-11-03,Donald Trump,43.66555
+2020,Wisconsin,2020-11-03,Joseph R. Biden Jr.,52.12642
+2020,Wyoming,2020-11-03,Donald Trump,61.97429
+2020,Wyoming,2020-11-03,Joseph R. Biden Jr.,30.81486
