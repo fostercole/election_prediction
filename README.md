@@ -6,6 +6,6 @@ In general, I set republican to 0 and democrat to 1. I assumed these are the onl
 
 Credits:
 
-https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/42MVDX
-https://www.census.gov/data/tables/time-series/dec/popchange-data-text.html
-https://github.com/fivethirtyeight/data/tree/master/polls
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/42MVDX \n
+https://www.census.gov/data/tables/time-series/dec/popchange-data-text.html \n
+https://github.com/fivethirtyeight/data/tree/master/polls \n
