@@ -277,6 +277,7 @@ df.to_csv(output_file_path, index=False)
 # Drop the 'year_state' column
 df.drop(columns=['year_state'], inplace=True)
 
+df['label'] = df['proportion_democrat_president'].apply(lambda x: 1 if x > 0.5 else 0)
 # Save the updated DataFrame to a new CSV file
 output_file_path = 'MAIN.csv'  # Replace with the desired output file path
 df.to_csv(output_file_path, index=False)
