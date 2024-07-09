@@ -5,7 +5,7 @@ Because elections are coming up, I thought it would be cool to see how well (or 
 
 Dataset Design Choices: 
 
-In general, I set republican to 0 and democrat to 1. I assumed these are the only two parties that can win the presidency. I dropped all (year, state) combinations out of the dataset without polling data (about 20% of them), with the assumption that polling data was the best predictor of voting patterns. When computing the dem_prop_x_years_prior variables, we wouldn’t be able to calculate at least one of the variable values for any elections from 1976 to 1984. In this case, I just used the current year’s
+In general, I set republican to 0 and democrat to 1. I assumed these are the only two parties that can win the presidency. I dropped all (year, state) combinations out of the dataset without polling data (about 20% of them), with the assumption that polling data was the best predictor of voting patterns. When computing the dem_prop_x_years_prior variables, we wouldn’t be able to calculate at least one of the variable values for any elections from 1976 to 1984. In this case, I just used the current year’s polling data. 
 
 
 Credits:
